@@ -1,0 +1,331 @@
+e_tsaesci = {
+    k_nuku = {
+        orsimer = "Nukh"
+
+        d_amalam = {
+            orsimer = "Dugoz"
+
+            c_amalam = {
+                orsimer = "Dugoz"
+
+                b_amalam = {
+                    orsimer = "Dugoz"
+                }
+                b_voldang = {
+                    orsimer = "Volddad"
+                }
+                b_conlui = {
+                    orsmier = "Gargrar"
+                }
+                b_darjung = {
+                    orsimer = "Darzrerd"
+                }
+                b_batuli = {
+                    orsimer = "Gholgriz"
+                }
+                b_copung = {
+                    orsimer = "Coprerd"
+                }
+            }
+            c_aikeni = {
+                orsimer = "Aikidh"
+
+                b_aikeni = {
+                    orsimer = "Aikidh"
+                }
+                b_nuraya = {
+                    orsimer = "Nurakaz"
+                }
+                b_indrali = {
+                    orsimer = "Inkogh"
+                }
+                b_kamipang = {
+                    orsimer = "Kaddad"
+                }
+                b_awesi = {
+                    orsimer = "Avord"
+                }
+            }
+            c_sigpuan = {
+                orsimer = "Dulkogh"
+
+                b_sigpuan = {
+                    orsimer = "Dulkogh"
+                }
+                b_gorjar = {
+                    orsimer = "Ghorzel"
+                }
+                b_bengku = {
+                    orsimer = "Benkh"
+                }
+            }
+            c_darjar = {
+                orsimer = "Darzar"
+
+                b_topang = {
+                    orsimer = "Toddad"
+                }
+                b_tobara = {
+                    orsimer = "Nagzal"
+                }
+                b_lauteni = {
+                    orsimer = "Udzidh"
+                }
+            }
+        }
+        d_towesi = {
+            orsimer = "Togvord"
+
+            c_towesi = {
+                orsimer = "Togvord"
+
+                b_towesi = {
+                    orsimer = "Togvord"
+                }
+                b_binkwari = {
+                    orsimer = "Binkegh"
+                }
+                b_caradang = {
+                    orsimer = "Charaddad"
+                }
+                b_padaya = {
+                    orsimer = "Padkaz"
+                }
+                b_suralunto = {
+                    orsimer = "Surkath"
+                }
+            }
+            c_cidang = {
+                orsimer = "Chiddad"
+
+                b_cidang = {
+                    orsimer = "Chiddad"
+                }
+                b_suracal = {
+                    orsimer = "Surakh"
+                }
+                b_vitaya = {
+                    orsmier = "Vitkaz"
+                }
+                b_bengak = {
+                    orsmier = "Benkakh"
+                }
+            }
+            c_vaswa = {
+                orsimer = "Vasvord"
+
+                b_vaswa = {
+                    orsimer = "Vasvord"
+                }
+                b_papang = {
+                    orsimer = "Paddad"
+                }
+                b_carakota = {
+                    orsimer = "Karagedh"
+                }
+                b_indrapuri = {
+                    orsimer = "Indugrod"
+                }
+            }
+        }
+        d_cotu = {
+            orsimer = "Kron"
+
+            c_cotu = {
+                orsimer = "Kron"
+
+                b_ramang = {
+                    orsimer = "Raddad"
+                }
+                b_sigman = {
+                    orsimer = "Sigshan"
+                }
+                b_luyar = {
+                    orsimer = "Lubez"
+                }
+            }
+            c_gilam = {
+                orsimer = "Gilgoz"
+
+                b_gilam = {
+                    orsimer = "Gilgoz"
+                }
+                b_manua = {
+                    orsimer = "Manord"
+                }
+                b_totari = {
+                    orsimer = "Totegh"
+                }
+                b_lautpung = {
+                    orsimer = "Laugrerd"
+                }
+            }
+            c_zekota = {
+                orsimer = "Zegedh"
+
+                b_zekota = {
+                    orsimer = "Zegedh"
+                }
+                b_bantan = {
+                    orsimer = "Banodh"
+                }
+                b_merawesi = {
+                    orsimer = "Meravord"
+                }
+            }
+        }
+        d_soggi = {
+            orsimer = "Sogrer"
+
+            c_soggi = {
+                orsimer = "Sogrer"
+
+                b_soggi = {
+                    orsimer = "Sogrer"
+                }
+                b_dordesa = {
+                    orsimer = "Dordzel"
+                }
+                b_jip = {
+                    orsimer = "Zrarkul"
+                }
+                b_vateni = {
+                    orsimer = "Vatedh"
+                }
+            }
+            c_bisat = {
+                orsimer = "Bisan"
+
+                b_bisat = {
+                    orsimer = "Bisan"
+                }
+                b_masat = {
+                    orsimer = "Masan"
+                }
+                b_slajung = {
+                    orsimer = "Slazrerd"
+                }
+            }
+            c_amadesa = {
+                orsimer = "Amadzel"
+
+                b_amadesa = {
+                    orsimer = "Amadzel"
+                }
+                b_zawa = {
+                    orsimer = "Zavord"
+                }
+                b_dekal = {
+                    orsimer = "Dekakh"
+                }
+                b_sumaek = {
+                    orsimer = "Sumekh"
+                }
+            }
+        }
+        d_hawlok = {
+            orsimer = "Havlokh"
+
+            c_hawlok = {
+                orsimer = "Havlokh"
+
+                b_hawlok = {
+                    orsimer = "Havlokh"
+                }
+                b_kopicul = {
+                    orsimer = "Koperd"
+                }
+                b_foclang = {
+                    orsimer = "Foddad"
+                }
+                b_siggau = {
+                    orsimer = "Sigel"
+                }
+            }
+            c_asp = {
+                orsimer = "Aspagh"
+
+                b_asp = {
+                    orsimer = "Aspagh"
+                }
+                b_aiklam = {
+                    orsimer = "Aikloz"
+                }
+                b_sorat = {
+                    orsimer = "Soran"
+                }
+            }
+            c_tadesa = {
+                orsimer = "Tadzel"
+
+                b_tadesa = {
+                    orsimer = "Tadzel"
+                }
+                b_paptari = {
+                    orsimer = "Papegh"
+                }
+                b_coak = {
+                    orsimer = "Coakh"
+                }
+                b_vipman = {
+                    orsimer = "Vipshan"
+                }
+            }
+        }
+        d_panyat = {
+            orsimer = "Pagran"
+
+            c_panyat = {
+                orsimer = "Pagran"
+
+                b_panyat = {
+                    orsimer = "Pagran"
+                }
+                b_conduk = {
+                    orsimer = "Condukh"
+                }
+                b_siwa = {
+                    orsimer = "Sivord"
+                }
+                b_slacal = {
+                    orsimer = "Slakah"
+                }
+                b_gipok = {
+                    orsimer = "Gipokh"
+                }
+                b_volaya = {
+                    orsimer = "Volakaz"
+                }
+            }
+            c_giruma = {
+                orsimer = "Girukul"
+
+                b_giruma = {
+                    orsimer = "Girukul"
+                }
+                b_ramgali = {
+                    orsimer = "Ramkogh"
+                }
+                b_caradesa = {
+                    orsimer = "Caradzel"
+                }
+                b_pekrat = {
+                    orsimer = "Pekran"
+                }
+            }
+            c_taku = {
+                orsimer = "Takh"
+
+                b_taggau = {
+                    orsimer = "Tagel"
+                }
+                b_taku = {
+                    orsimer = "Takh"
+                }
+                b_indrayar = {
+                    orsimer = "Indrez"
+                }
+            }
+        }
+    }
+}
