@@ -329,3 +329,43 @@ e_tsaesci = {
         }
     }
 }
+e_kamal = {
+    aldmer = "An Mereth"
+    altmer = "An Mereth"
+    ayleid = "Bis Mereth"
+    falmer = "An Mereth"
+
+    k_ryzgaley = {
+        aldmer = "An Mereth"
+        altmer = "An Mereth"
+        ayleid = "Bis Mereth"
+        falmer = "An Mereth"
+
+        d_okhamar = {
+            aldmer = "Ocatar"
+            altmer = "Ocatar"
+            ayleid = "Ocatar"
+            falmer = "Ocatar"
+
+            c_katapur = {
+                aldmer = "Cataeum"
+                altmer = "Cataeum"
+                ayleid = "Cataeum"
+                falmer = "Cataeum"
+
+                b_katapur = {
+                    aldmer = "Cataeum"
+                    altmer = "Cataeum"
+                    ayleid = "Cataeum"
+                    falmer = "Cataeum"
+                }
+                b_yozgat = {
+                    aldmer = "Ogatar"
+                    altmer = "Ogatar"
+                    ayleid = "Ogatar"
+                    falmer = "Ogatar"
+                }
+            }
+        }
+    }
+}
