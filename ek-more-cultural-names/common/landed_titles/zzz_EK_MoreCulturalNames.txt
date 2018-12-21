@@ -1,15 +1,838 @@
+e_cyrodiil = {
+    k_skyrim = {
+        d_haafingar = {
+            c_solitude = {
+                b_wolfskull = {
+                    draugr = "Grohiik-klov"
+                }
+            }
+            c_ravenscar = {
+                atmoran = "Hyreifansjear"
+                draugr = "Ruvaak-ahraan"
+
+                b_ravenscar = {
+                    atmoran = "Hyreifansjear"
+                    draugr = "Ruvaak-ahraan"
+                }
+            }
+            c_dragonbridge = {
+                atmoran = "Dovahbrjoz"
+
+                b_dragonbridge = {
+                    atmoran = "Dovahbrjoz"
+                }
+            }
+        }
+    }
+}
+e_kamal = {
+    aldmer = "Kamaleth"
+    altmer = "Kameleth"
+    ayleid = "Kamaleth"
+    falmer = "Kamaleth"
+
+    k_kamaleimirvuk = {
+        d_ghozmanbod = {
+            aldmer = "Gosmarand"
+            altmer = "Gosmarand"
+            ayleid = "Gosmarand"
+            falmer = "Gosmarand"
+
+            c_bhatanir = {
+                b_matahku = {
+                    aldmer = "Matalond"
+                    altmer = "Matalond"
+                    ayleid = "Matalond"
+                    falmer = "Matalond"
+                }
+                b_yaleha = {
+                    aldmer = "Yalena"
+                    altmer = "Yalena"
+                    ayleid = "Yalena"
+                    falmer = "Yalena"
+                }
+                b_burzkent = {
+                    aldmer = "Burlore"
+                    altmer = "Burlore"
+                    ayleid = "Burlore"
+                    falmer = "Burlore"
+                }
+            }
+            c_ormanbod = {
+                aldmer = "Ormarand"
+                altmer = "Ormarand"
+                ayleid = "Ormarand"
+                falmer = "Ormarand"
+
+                b_ormanbod = {
+                    aldmer = "Ormarand"
+                    altmer = "Ormarand"
+                    ayleid = "Ormarand"
+                    falmer = "Ormarand"
+                }
+                b_baltakara = {
+                    aldmer = "Baltafel"
+                    altmer = "Baltafel"
+                    ayleid = "Baltafel"
+                    falmer = "Baltafel"
+                    orsimer = "Baltakazal"
+                }
+                b_yesildere = {
+                    aldmer = "Yesilor"
+                    altmer = "Yesilor"
+                    ayleid = "Yesilor"
+                    falmer = "Yesilor"
+                }
+                b_kayakaram = {
+                    aldmer = "Ceyacarin"
+                    altmer = "Ceyacarin"
+                    ayleid = "Ceyacarin"
+                    falmer = "Ceyacarin"
+                    orsimer = "Kacaroz"
+                }
+                b_okkuchuk = {
+                    aldmer = "Ocusecul"
+                    altmer = "Ocusecul"
+                    ayleid = "Ocusecul"
+                    falmer = "Ocusecul"
+                }
+                b_kayakale = {
+                    aldmer = "Ceyahame"
+                    altmer = "Ceyahame"
+                    ayleid = "Ceyahame"
+                    falmer = "Ceyahame"
+                }
+            }
+            c_jamadur = {
+                aldmer = "Yamabur"
+                altmer = "Yamabur"
+                ayleid = "Yamabur"
+                falmer = "Yamabur"
+
+                b_jamadur = {
+                    aldmer = "Yamabur"
+                    altmer = "Yamabur"
+                    ayleid = "Yamabur"
+                    falmer = "Yamabur"
+                }
+                b_qarshi = {
+                    aldmer = "Cardava"
+                    altmer = "Cardava"
+                    ayleid = "Cardava"
+                    falmer = "Cardava"
+                }
+                b_bukhar = {
+                    aldmer = "Bucavar"
+                    altmer = "Bucavar"
+                    atmoran = "Buchengrav"
+                    ayleid = "Bucavar"
+                    falmer = "Bucavar"
+                    nord = "Buchengrav"
+                    orsimer = "Bukuzel"
+                    skaal = "Buchengrav"
+                }
+                b_erzurum = {
+                    aldmer = "Ersoruum"
+                    altmer = "Erosruum"
+                    ayleid = "Ersoruum"
+                    falmer = "Ersoruum"
+                }
+                b_samarkhan = {
+                    aldmer = "Samarata"
+                    altmer = "Samarata"
+                    ayleid = "Samarata"
+                    falmer = "Samarata"
+                }
+                b_ankirajan = {
+
+                }
+            }
+            c_durmur = {
+                b_durmur = {
+
+                }
+                b_chuldaq = {
+                    
+                }
+                b_sherzra = {
+                    aldmer = "Cheyanfel"
+                    altmer = "Cheyanfel"
+                    ayleid = "Cheyanfel"
+                    falmer = "Cheyanfel"
+                    orsimer = "Sherzal"
+                }
+                b_dizvas = {
+
+                }
+            }
+            c_temamir = {
+                b_temamir = {
+
+                }
+                b_asdah = {
+
+                }
+                b_ramon = {
+
+                }
+                b_tekirsun = {
+
+                }
+            }
+        }
+        d_hamar = {
+            aldmer = "Camatar"
+            altmer = "Camatar"
+            atmoran = "Hamengrav"
+            ayleid = "Camatar"
+            falmer = "Camatar"
+            nord = "Hamengrav"
+            orsimer = "Hamazel"
+            skaal = "Hamengrav"
+        }
+    }
+	k_mehekbaz = {
+        d_tarshehir = {
+            c_tarshehir = {
+                b_tarshehir = {
+
+                }
+                b_balfez = {
+
+                }
+                b_izmoma = {
+
+                }
+                b_kastanbul = {
+
+                }
+                b_adapistan = {
+                    aldmer = "Adapistani"
+                    altmer = "Adapistani"
+                    atmoran = "Drunkhammer"
+                    ayleid = "Adapistani"
+                    falmer = "Adapistani"
+                    nord = "Drunkhammer"
+                    skaal = "Drunkhammer"
+                }
+                b_binkale = {
+
+                }
+            }
+            c_balakan = {
+                b_balakan = {
+
+                }
+                b_bakhori = {
+
+                }
+                b_bogat = {
+                    aldmer = "Bocatar"
+                    altmer = "Bocatar"
+                    ayleid = "Bocatar"
+                    falmer = "Bocatar"
+                }
+                b_darqad = {
+
+                }
+                b_danghara = {
+                    aldmer = "Dangafel"
+                    altmer = "Dangafel"
+                    ayleid = "Dangafel"
+                    falmer = "Dangafel"
+                    orsimer = "Danghzal"
+                }
+                b_hisor = {
+
+                }
+            }
+        }
+    }
+    k_ryzgaley = {
+        falmer = "An Falmereth"
+
+        d_okhamar = {
+            aldmer = "Ocatar"
+            altmer = "Ocatar"
+            atmoran = "Ukengrav"
+            ayleid = "Ocatar"
+            falmer = "Ocatar"
+            nord = "Ukengrav"
+            orsimer = "Okhazel"
+            skaal = "Ukengrav"
+
+            c_katapur = {
+                aldmer = "Cataeum"
+                altmer = "Cataeum"
+                ayleid = "Cataeum"
+                falmer = "Cataeum"
+
+                b_katapur = {
+                    aldmer = "Cataeum"
+                    altmer = "Cataeum"
+                    ayleid = "Cataeum"
+                    falmer = "Cataeum"
+                }
+                b_yozgat = {
+                    aldmer = "Ogatar"
+                    altmer = "Ogatar"
+                    ayleid = "Ogatar"
+                    falmer = "Ogatar"
+                }
+                b_emukouha = {
+
+                }
+                b_baltna = {
+
+                }
+            }
+            c_karakon = {
+                b_karakon = {
+
+                }
+                b_chorsu = {
+
+                }
+                b_bolgali = {
+                    aldmer = "Bolgai"
+                    altmer = "Bolgai"
+                    atmoran = "Boghill"
+                    ayleid = "Bolgai"
+                    falmer = "Bolgai"
+                    nord = "Boghill"
+                    orsimer = "Bolkogh"
+                    skaal = "Boghill"
+                }
+                b_chubek = {
+                    atmoran = "Ulfenarr"
+                    draugr = "Grohiik-ahraan"
+                    nord = "Wolfscar"
+                    skaal = "Wolfscar"
+                }
+                b_farob = {
+                    atmoran = "Firabrjekith"
+                    draugr = "Vulon-frod"
+                    nord = "Nightshire"
+                    skaal = "Nightshire"
+                }
+                b_gharmen = {
+                    atmoran = "Gaisfryst"
+                    draugr = "Ruth-fo"
+                    nord = "Ragefrost"
+                    skaal = "Ragefrost"
+                }
+            }
+            c_balima = {
+                b_balima = {
+                    
+                }
+                b_tekihisar = {
+                    aldmer = "Tecatar"
+                    altmer = "Tecatar"
+                    atmoran = "Tekengrav"
+                    ayleid = "Tecatar"
+                    falmer = "Tecatar"
+                    nord = "Tekengrav"
+                    orsimer = "Tekizel"
+                    skaal = "Tekengrav"
+                }
+                b_igdcuk = {
+
+                }
+                b_kutaybin = {
+
+                }
+                b_corlu = {
+
+                }
+                b_manasya = {
+                    atmoran = "Mangard"
+                    nord = "Mangard"
+                    orsimer = "Mankaz"
+                    skaal = "Mangard"
+                }
+            }
+            c_bolukars = {
+                atmoran = "Bolheim"
+                nord = "Bolheim"
+                skaal = "Bolheim"
+
+                b_bolukars = {
+                    atmoran = "Bolheim"
+                    nord = "Bolheim"
+                    skaal = "Bolheim"
+                }
+                b_antalin = {
+
+                }
+                b_elagli = {
+                    aldmer = "Engalai"
+                    altmer = "Engalai"
+                    atmoran = "Largehill"
+                    ayleid = "Engalai"
+                    falmer = "Engalai"
+                    nord = "Largehill"
+                    orsimer = "Elakogh"
+                    skaal = "Largehill"
+                }
+                b_darizli = {
+                    aldmer = "Darilai"
+                    altmer = "Darilai"
+                    atmoran = "Darkhill"
+                    ayleid = "Darilai"
+                    falmer = "Darilai"
+                    nord = "Darkhill"
+                    orsimer = "Darzikogh"
+                    skaal = "Darkhill"
+                }
+                b_dizli = {
+                    aldmer = "Daislai"
+                    altmer = "Daislai"
+                    atmoran = "Dimhill"
+                    ayleid = "Daislai"
+                    falmer = "Daislai"
+                    nord = "Dimhill"
+                    orsimer = "Dizkogh"
+                    skaal = "Dimhill"
+                }
+                b_kahramangol = {
+
+                }
+            }
+        }
+        d_odhisar = {
+            aldmer = "Odatar"
+            altmer = "Odatar"
+            atmoran = "Odengrav"
+            ayleid = "Odatar"
+            falmer = "Odatar"
+            nord = "Odengrav"
+            orsimer = "Odhizel"
+            skaal = "Odengrav"
+
+            c_odhisar = {
+                aldmer = "Odatar"
+                altmer = "Odatar"
+                atmoran = "Odengrav"
+                ayleid = "Odatar"
+                falmer = "Odatar"
+                nord = "Odengrav"
+                orsimer = "Odhizel"
+                skaal = "Odengrav"
+            
+                b_odhisar = {
+                    aldmer = "Odatar"
+                    altmer = "Odatar"
+                    atmoran = "Odengrav"
+                    ayleid = "Odatar"
+                    falmer = "Odatar"
+                    nord = "Odengrav"
+                    orsimer = "Odhizel"
+                    skaal = "Odengrav"
+                }
+                b_igurum = {
+                    aldmer = "Eyeguruum"
+                    altmer = "Eyeguruum"
+                    ayleid = "Eyeguruum"
+                    falmer = "Eyeguruum"
+                }
+                b_izmvas = {
+
+                }
+                b_siverihli = {
+                    aldmer = "Sivelai"
+                    altmer = "Sivelai"
+                    atmoran = "Silverhill"
+                    ayleid = Sivelai"
+                    falmer = "Sivelai"
+                    nord = "Silverhill"
+                    orsimer = "Silkogh"
+                    skaal = "Silverhill"
+                }
+                b_mananbul = {
+
+                }
+                b_kahregli = {
+                    aldmer = "Carelai"
+                    altmer = "Carelai"
+                    atmoran = "Karthill"
+                    ayleid = "Carelai"
+                    falmer = "Carelai"
+                    nord = "Karthill"
+                    orsimer = "Kahrkogh"
+                    skaal = "Karthill"
+                }
+            }
+            c_kediskele = {
+                b_kediskele = {
+
+                }
+                b_baltavadi = {
+                    atmoran = "Batwald"
+                    nord = "Batwald"
+                    skaal = "Batwald"
+                }
+                b_siyahistan = {
+                    aldmer = "Seyastani"
+                    altmer = "Seyastani"
+                    atmoran = "Sinhammer"
+                    ayleid = "Seyastani"
+                    falmer = "Seyastani"
+                    nord = "Sinhammer"
+                    skaal = "Sinhammer"
+                }
+                b_sukuchuk = {
+
+                }
+                b_karbad = {
+
+                }
+                b_yesilvadi = {
+                    atmoran = "Ansilwald"
+                    nord = "Ansilwald"
+                    skaal = "Ansiwald"
+                }
+            }
+            c_kanaveh = {
+                b_kanaveh = {
+
+                }
+                b_atqliya = {
+                    atmoran = "Altgard"
+                    nord = "Altgard"
+                    orsimer = "Altkaz"
+                    skaal = "Altgard"
+                }
+                b_chughal = {
+                    atmoran = "Charhall"
+                    nord = "Charhall"
+                    skaal = "Charhall"
+                }
+                b_qoyoara = {
+                    aldmer = "Ceyorfel"
+                    altmer = "Ceyorfel"
+                    ayleid = "Ceyorfel"
+                    falmer = "Ceyorfel"
+                    orsimer = "Koizal"
+                }
+            }
+        }
+        d_izmalya = {
+            atmoran = "Ysmgard"
+            nord = "Ysmgard"
+            orsimer = Izkaz"
+            skaal = "Ysmgard"
+
+            c_izmalya = {
+                atmoran = "Ysmgard"
+                nord = "Ysmgard"
+                orsimer = Izkaz"
+                skaal = "Ysmgard"
+                
+                b_izmalya = {
+                    atmoran = "Ysmgard"
+                    nord = "Ysmgard"
+                    orsimer = Izkaz"
+                    skaal = "Ysmgard"
+                }
+                b_diyarit = {
+
+                }
+                b_bursar = {
+                    aldmer = "Bursatar"
+                    altmer = "Bursatar"
+                    atmoran = "Burengrav"
+                    ayleid = "Bursatar"
+                    falmer = "Bursatar"
+                    nord = "Burengrav"
+                    orsimer = "Burzel"
+                    skaal = "Burengrav"
+                }
+                b_burbin = {
+
+                }
+                b_aydnya = {
+                    atmoran = "Aidgard"
+                    nord = "Aidgard"
+                    orsimer = "Aidkaz"
+                    skaal = "Aidgard"
+                }
+                b_istanarsus = {
+                    atmoran = "Hammerborn"
+                    nord = "Hammerborn"
+                    skaal = "Hammerborn"
+                }
+            }
+            c_surkh = {
+                b_surkh = {
+
+                }
+                b_punuk = {
+
+                }
+                b_kushtaf = {
+
+                }
+                b_vakash = {
+
+                }
+                b_turdiv = {
+
+                }
+                b_zavakh = {
+
+                }
+            }
+            c_garibak = {
+                b_garibak = {
+                    b_farkhar = {
+                        aldmer = "Farcatar"
+                        altmer = "Farcatar"
+                        atmoran = "Farkengrav"
+                        ayleid = "Faracatar"
+                        falmer = "Farcatar"
+                        nord = "Farkengrav"
+                        orsimer = "Farkhzel"
+                        skaal = "Farkengrav"
+                    }
+                    b_buragen = {
+
+                    }
+                    b_chubak = {
+
+                    }
+                    b_karamazor = {
+
+                    }
+                    b_karapchi = {
+
+                    }
+                }
+            }
+        }
+        d_izkaaz = {
+            c_kaaz = {
+                b_kaaz = {
+
+                }
+                b_aktyube = {
+
+                }
+                b_alakhar = {
+                    aldmer = "Alacatar"
+                    altmer = "Alacatar"
+                    atmoran = "Alengrav"
+                    ayleid = "Alacatar"
+                    falmer = "Alacatar"
+                    nord = "Alengrav"
+                    orsimer = "Alakhzel"
+                    skaal = "Alengrav"
+                }
+                b_bahor = {
+
+                }
+                b_dikhisar = {
+                    aldmer = "Daicatar"
+                    altmer = "Daicatar"
+                    atmoran = "Dickengrav"
+                    ayleid = "Daicatar"
+                    falmer = "Daicatar"
+                    nord = "Dickengrav"
+                    orsimer = "Dikhizel"
+                    skaal = "Dickengrav"
+                }
+                b_isfara = {
+                    aldmer = "Eyesarfel"
+                    altmer = "Eyesarfel"
+                    ayleid = "Eyesarfel"
+                    falmer = "Eyesarfel"
+                    orsimer = "Ifzal"
+                }
+            }
+            c_lohur = {
+                b_lohur = {
+
+                }
+                b_kulkand = {
+
+                }
+                b_odnurak = {
+
+                }
+                b_satalmush = {
+
+                }
+                b_selbur = {
+
+                }
+                b_purishan = {
+
+                }
+            }
+            c_nurak = {
+                b_nurak = {
+
+                }
+                b_khonabad = {
+
+                }
+                b_rudaki = {
+
+                }
+                b_rarchek = {
+
+                }
+                b_sarazm = {
+
+                }
+                b_roshor = {
+
+                }
+            }
+            c_mujum = {
+                aldmer = "Musuum"
+                altmer = "Musuum"
+                ayleid = "Musuum"
+                falmer = "Musuum"
+
+                b_mujum = {
+                    aldmer = "Musuum"
+                    altmer = "Musuum"
+                    ayleid = "Musuum"
+                    falmer = "Musuum"
+                }
+                b_dorak = {
+
+                }
+                b_pakhtakor = {
+
+                }
+                b_panjakent = {
+                    aldmer = "Pansalore"
+                    altmer = "Pansalore"
+                    ayleid = "Pansalore"
+                    falmer = "Pansalore"
+                }
+                b_kurkat = {
+
+                }
+                b_lakkon = {
+
+                }
+            }
+        }
+        d_sihirqul = {
+            c_qul = {
+                b_qul = {
+
+                }
+                b_qaratoq = {
+
+                }
+                b_bokhtar = {
+                    aldmer = "Bocatar"
+                    altmer = "Bocatar"
+                    atmoran = "Bokengrav"
+                    ayleid = "Bocatar"
+                    falmer = "Bocatar"
+                    nord = "Bokengrav"
+                    orsimer = "Bokhzel"
+                    skaal = "Bokengrav"
+                }
+                b_rasht = {
+
+                }
+                b_mushtif = {
+
+                }
+                b_khovaling = {
+
+                }
+            }
+            c_muk = {
+                b_muk = {
+
+                }
+                b_kirkuduk = {
+
+                }
+                b_khurmi = {
+
+                }
+                b_oburdon = {
+
+                }
+                b_panj = {
+
+                }
+                b_durkadurk = {
+
+                }
+            }
+            c_manivas = {
+                b_manivas = {
+
+                }
+                b_igfez = {
+
+                }
+                b_gazatman = {
+
+                }
+                b_trabasya = {
+                    atmoran = "Trabgard"
+                    nord = "Trabgard"
+                    orsimer = "Trakaz"
+                    skaal = "Trabgard"
+                }
+                b_manamaras = {
+
+                }
+                b_ceyhsun = {
+
+                }
+            }
+            c_kumuuk = {
+                b_kumuuk = {
+                
+                }
+                b_antadu = {
+
+                }
+                b_bitlis = {
+
+                }
+                b_tokat = {
+
+                }
+            }
+        }
+    }
+}
 e_tsaesci = {
     k_nuku = {
         orsimer = "Nukh"
 
         d_amalam = {
-            orsimer = "Dugoz"
+            aldmer = "Amalin"
+            altmer = "Amalin"
+            ayleid = "Amalin"
+            falmer = "Amalin"
+            orsimer = "Amaloz"
 
             c_amalam = {
-                orsimer = "Dugoz"
+                aldmer = "Amalin"
+                altmer = "Amalin"
+                ayleid = "Amalin"
+                falmer = "Amalin"
+                orsimer = "Amaloz"
 
                 b_amalam = {
-                    orsimer = "Dugoz"
+                    aldmer = "Amalin"
+                    altmer = "Amalin"
+                    ayleid = "Amalin"
+                    falmer = "Amalin"
+                    orsimer = "Amaloz"
                 }
                 b_voldang = {
                     orsimer = "Volddad"
@@ -21,7 +844,14 @@ e_tsaesci = {
                     orsimer = "Darzrerd"
                 }
                 b_batuli = {
-                    orsimer = "Gholgriz"
+                    aldmer = "Batulai"
+                    altmer = "Batulai"
+                    atmoran = "Bathill"
+                    ayleid = "Batulai"
+                    falmer = "Batulai"
+                    nord = "Bathill"
+                    orsimer = "Batukogh"
+                    skaal = "Bathill"
                 }
                 b_copung = {
                     orsimer = "Coprerd"
@@ -34,10 +864,20 @@ e_tsaesci = {
                     orsimer = "Aikidh"
                 }
                 b_nuraya = {
+                    atmoran = "Nuragard"
+                    nord = "Nuragard"
                     orsimer = "Nurakaz"
+                    skaal = "Nuragard"
                 }
                 b_indrali = {
+                    aldmer = "Indralai"
+                    altmer = "Indralai"
+                    atmoran = "Inkhill"
+                    ayleid = "Indralai"
+                    falmer = "Indralai"
+                    nord = "Inkhill"
                     orsimer = "Inkogh"
+                    skaal = "Inkhill"
                 }
                 b_kamipang = {
                     orsimer = "Kaddad"
@@ -53,20 +893,38 @@ e_tsaesci = {
                     orsimer = "Dulkogh"
                 }
                 b_gorjar = {
+                    aldmer = "Gorlatar"
+                    altmer = "Gorlatar"
+                    atmoran = "Gorzengrav"
+                    ayleid = "Gorlatar"
+                    falmer = "Gorlatar"
+                    nord = "Gorzengrav"
                     orsimer = "Ghorzel"
+                    skaal = "Gorzengrav"
                 }
                 b_bengku = {
                     orsimer = "Benkh"
                 }
             }
             c_darjar = {
-                orsimer = "Darzar"
+                aldmer = "Darlatar"
+                altmer = "Darlatar"
+                atmoran = "Darzengrav"
+                ayleid = "Darlatar"
+                falmer = "Darlatar"
+                nord = "Darzengrav"
+                orsimer = "Darzel"
+                skaal = "Darzengrav"
 
                 b_topang = {
                     orsimer = "Toddad"
                 }
                 b_tobara = {
-                    orsimer = "Nagzal"
+                    aldmer = "Tobarfel"
+                    altmer = "Tobarfel"
+                    ayleid = "Tobarfel"
+                    falmer = "Tobarfel"
+                    orsimer = "Tobazal"
                 }
                 b_lauteni = {
                     orsimer = "Udzidh"
@@ -89,7 +947,10 @@ e_tsaesci = {
                     orsimer = "Charaddad"
                 }
                 b_padaya = {
+                    atmoran = "Padagard"
+                    nord = "Padagard"
                     orsimer = "Padkaz"
+                    sakal = "Padagard"
                 }
                 b_suralunto = {
                     orsimer = "Surkath"
@@ -105,7 +966,10 @@ e_tsaesci = {
                     orsimer = "Surakh"
                 }
                 b_vitaya = {
+                    atmoran = "Vitagard"
+                    nord = "Vitagard"
                     orsmier = "Vitkaz"
+                    skaal = "Vitagard"
                 }
                 b_bengak = {
                     orsmier = "Benkakh"
@@ -141,13 +1005,28 @@ e_tsaesci = {
                     orsimer = "Sigshan"
                 }
                 b_luyar = {
-                    orsimer = "Lubez"
+                    aldmer = "Leyatar"
+                    altmer = "Leyatar"
+                    atmoran = "Layengrav"
+                    ayleid = "Leyatar"
+                    falmer = "Leyatar"
+                    nord = "Layengrav"
+                    orsimer = "Luzel"
+                    skaal = "Layengrav"
                 }
             }
             c_gilam = {
+                aldmer = "Gilarin"
+                altmer = "Gilarin"
+                ayleid = "Gilarin"
+                falmer = "Gilarin"
                 orsimer = "Gilgoz"
 
                 b_gilam = {
+                    aldmer = "Gilarin"
+                    altmer = "Gilarin"
+                    ayleid = "Gilarin"
+                    falmer = "Gilarin"
                     orsimer = "Gilgoz"
                 }
                 b_manua = {
@@ -249,6 +1128,10 @@ e_tsaesci = {
                     orsimer = "Aspagh"
                 }
                 b_aiklam = {
+                    aldmer = "Eyecarin"
+                    altmer = "Eyecarin"
+                    ayleid = "Eyecarin"
+                    falmer = "Eyecarin"
                     orsimer = "Aikloz"
                 }
                 b_sorat = {
@@ -294,7 +1177,10 @@ e_tsaesci = {
                     orsimer = "Gipokh"
                 }
                 b_volaya = {
+                    atmoran = "Volgard"
+                    nord = "Volgard"
                     orsimer = "Volakaz"
+                    skaal = "Volgard"
                 }
             }
             c_giruma = {
@@ -304,7 +1190,14 @@ e_tsaesci = {
                     orsimer = "Girukul"
                 }
                 b_ramgali = {
+                    aldmer = "Ramalai"
+                    altmer = "Ramalai"
+                    atmoran = "Ramhill"
+                    ayleid = "Ramalai"
+                    falmer = "Ramalai"
+                    nord = "Ramhill"
                     orsimer = "Ramkogh"
+                    skaal = "Ramhill"
                 }
                 b_caradesa = {
                     orsimer = "Caradzel"
@@ -323,47 +1216,14 @@ e_tsaesci = {
                     orsimer = "Takh"
                 }
                 b_indrayar = {
-                    orsimer = "Indrez"
-                }
-            }
-        }
-    }
-}
-e_kamal = {
-    aldmer = "An Mereth"
-    altmer = "An Mereth"
-    ayleid = "Bis Mereth"
-    falmer = "An Mereth"
-
-    k_ryzgaley = {
-        aldmer = "An Mereth"
-        altmer = "An Mereth"
-        ayleid = "Bis Mereth"
-        falmer = "An Mereth"
-
-        d_okhamar = {
-            aldmer = "Ocatar"
-            altmer = "Ocatar"
-            ayleid = "Ocatar"
-            falmer = "Ocatar"
-
-            c_katapur = {
-                aldmer = "Cataeum"
-                altmer = "Cataeum"
-                ayleid = "Cataeum"
-                falmer = "Cataeum"
-
-                b_katapur = {
-                    aldmer = "Cataeum"
-                    altmer = "Cataeum"
-                    ayleid = "Cataeum"
-                    falmer = "Cataeum"
-                }
-                b_yozgat = {
-                    aldmer = "Ogatar"
-                    altmer = "Ogatar"
-                    ayleid = "Ogatar"
-                    falmer = "Ogatar"
+                    aldmer = "Indraiatar"
+                    altmer = "Indraiatar"
+                    atmoran = "Yngengrav"
+                    ayleid = "Indraiatar"
+                    falmer = "Indraiatar"
+                    nord = "Yngengrav"
+                    orsimer = "Indrazel"
+                    skaal = "Yngengrav"
                 }
             }
         }
