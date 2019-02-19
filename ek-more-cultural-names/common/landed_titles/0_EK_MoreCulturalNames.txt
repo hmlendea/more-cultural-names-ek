@@ -131,11 +131,11 @@ e_kamal = {
                 b_kayakale = {
                     aldmer = "Ceyacame"
                     altmer = "Ceyacame"
-                    atmoran = "Kaykav"
+                    atmoran = "Kynekav"
                     ayleid = "Ceyacame"
                     falmer = "Ceyacame"
-                    nord = "Kaykav"
-                    skaal = "Kaykav"
+                    nord = "Kynekav"
+                    skaal = "Kynekav"
                 }
             }
             c_jamadur = {
@@ -221,7 +221,7 @@ e_kamal = {
                     skaal = "Dumalur"
                 }
                 b_chuldaq = {
-                    
+
                 }
                 b_sherzra = {
                     aldmer = "Cheyanfel"
@@ -295,7 +295,510 @@ e_kamal = {
             skaal = "Hamengrav"
         }
     }
-	k_mehekbaz = {
+    k_kamalettan = {
+        d_mihir = {
+            c_handumur = {
+                b_handumur = {
+
+                }
+                b_mautas = {
+
+                }
+                b_haganai = {
+
+                }
+                b_durbat = {
+
+                }
+            }
+            c_sabirabad = {
+                b_sabirabad = {
+
+                }
+                b_imishli = {
+
+                }
+                b_davachi = {
+
+                }
+                b_agsu = {
+
+                }
+                b_tovuz = {
+
+                }
+                b_shakh = {
+
+                }
+            }
+            c_usabul = {
+                b_usabul = {
+
+                }
+                b_ansiya = {
+
+                }
+                b_duzaybin = {
+
+                }
+                b_aksarcuk = {
+
+                }
+                b_edsin = {
+
+                }
+                b_ankarfez = {
+
+                }
+            }
+            c_qakhazan = {
+                b_qakhazan = {
+
+                }
+                b_ordubad = {
+
+                }
+                b_lerik = {
+
+                }
+                b_khichevan = {
+
+                }
+                b_ogubad = {
+
+                }
+                b_qabakha = {
+
+                }
+            }
+        }
+        d_kardabaz = {
+            c_kadagri = {
+                b_kadagri = {
+
+                }
+                b_ansya = {
+
+                }
+                b_kayozan = {
+
+                }
+                b_odemdana = {
+
+                }
+                b_vantalya = {
+
+                }
+                b_tekisa = {
+
+                }
+            }
+            c_vashab = {
+                b_vashab = {
+
+                }
+                b_khujand = {
+
+                }
+                b_shahristan = {
+
+                }
+                b_dhamal = {
+
+                }
+                b_shundahar = {
+
+                }
+            }
+            c_karabak = {
+                b_karabak = {
+
+                }
+                b_kentau = {
+
+                }
+                b_karagandy = {
+
+                }
+                b_guryev = {
+
+                }
+                b_saran = {
+
+                }
+                b_satpayakh = {
+
+                }
+            }
+        }
+        d_guneybram = {
+            c_baram = {
+                b_baram = {
+
+                }
+                b_bosun = {
+
+                }
+                b_kartepe = {
+
+                }
+                b_kilis = {
+
+                }
+                b_soma = {
+
+                }
+                b_kars = {
+
+                }
+            }
+            c_kozain = {
+                b_kozain = {
+
+                }
+                b_binya = {
+
+                }
+                b_akhirum = {
+
+                }
+                b_igorfez = {
+
+                }
+                b_daragri = {
+
+                }
+                b_shanliburgaz = {
+
+                }
+            }
+            c_mirpur = {
+                b_mirpur = {
+
+                }
+                b_ral = {
+
+                }
+                b_atysha = {
+
+                }
+                b_mugla = {
+
+                }
+            }
+            c_kamori = {
+                b_kamori = {
+
+                }
+                b_burzam = {
+
+                }
+                b_atsha = {
+
+                }
+                b_khaysana = {
+
+                }
+                b_yaliya = {
+
+                }
+                b_yaiaq = {
+
+                }
+            }
+        }
+        d_dirkamal = {
+            c_jadahar = {
+                b_jadahar = {
+
+                }
+                b_hughge = {
+
+                }
+                b_ramthtas = {
+
+                }
+                b_yafson = {
+
+                }
+            }
+            c_erzhir = {
+                b_erzhir = {
+
+                }
+                b_istamasya = {
+
+                }
+                b_gebraman = {
+
+                }
+                b_bursanbul = {
+
+                }
+                b_kahrehir = {
+
+                }
+                b_karsvan = {
+
+                }
+            }
+            c_kashmir = {
+                b_kashmir = {
+
+                }
+                b_agdam = {
+
+                }
+                b_fuzuli = {
+
+                }
+                b_goranboy = {
+
+                }
+                b_bilasuvar = {
+
+                }
+                b_ismali = {
+
+                }
+            }
+            c_kahmaras = {
+                b_kahmaras = {
+
+                }
+                b_ceyirli = {
+
+                }
+                b_bingrica = {
+
+                }
+                b_elarfez = {
+
+                }
+                b_caysin = {
+
+                }
+                b_sinbul = {
+
+                }
+            }
+        }
+        d_behar = {
+            c_behar = {
+                b_behar = {
+
+                }
+                b_murmel = {
+
+                }
+                b_hagouhad = {
+
+                }
+                b_mivsha = {
+
+                }
+                b_hagaigny = {
+
+                }
+            }
+            c_elazrum = {
+                b_elazrum = {
+
+                }
+                b_adaparum = {
+
+                }
+                b_sivmaras = {
+
+                }
+                b_kahroma = {
+
+                }
+                b_sikisehir = {
+
+                }
+                b_shanlu = {
+
+                }
+            }
+            c_mashamir = {
+                b_mashamir = {
+
+                }
+                b_qoyowhiyn = {
+
+                }
+                b_sikars = {
+
+                }
+            }
+            c_aksana = {
+                b_aksana = {
+
+                }
+                b_kahramehir = {
+
+                }
+                b_odarsus = {
+
+                }
+                b_silotalya = {
+
+                }
+                b_trabiya = {
+
+                }
+                b_dorfez = {
+
+                }
+            }
+        }
+        d_battalya = {
+            c_battalya = {
+                b_battalya = {
+
+                }
+                b_akhirlu = {
+
+                }
+                b_erzurivas = {
+
+                }
+                b_balizurum = {
+
+                }
+                b_istingol = {
+
+                }
+                b_erzurma = {
+
+                }
+            }
+            c_gazum = {
+                b_gazum = {
+
+                }
+                b_gebtep = {
+
+                }
+                b_kizilakkale = {
+
+                }
+                b_ordma = {
+
+                }
+                b_odemazig = {
+
+                }
+                b_igakale = {
+
+                }
+            }
+            c_musorfez = {
+                b_musorfez = {
+
+                }
+                b_burgaz = {
+
+                }
+                b_aksarkale = {
+
+                }
+                b_ineghisar = {
+
+                }
+                b_edivar = {
+
+                }
+                b_kadiaman = {
+
+                }
+            }
+        }
+        d_markamal = {
+            c_kahrahir = {
+                b_kahrahir = {
+
+                }
+                b_gyzum = {
+
+                }
+                b_kirigeli = {
+
+                }
+                b_gazian = {
+
+                }
+                b_ceysin = {
+
+                }
+                b_kanan = {
+
+                }
+            }
+            c_korica = {
+                b_korica = {
+
+                }
+                b_odurfa = {
+
+                }
+                b_adapincan = {
+
+                }
+                b_manip = {
+
+                }
+                b_muszurum = {
+
+                }
+                b_aydursa = {
+
+                }
+            }
+            c_marfez = {
+                b_marfez = {
+
+                }
+                b_odemistan = {
+
+                }
+                b_antman = {
+
+                }
+                b_aksaybin = {
+
+                }
+                b_kadregli = {
+
+                }
+                b_akhinbul = {
+
+                }
+            }
+            c_burzmir = {
+                b_burzmir = {
+
+                }
+                b_gazzon = {
+
+                }
+                b_tokazip = {
+
+                }
+                b_adalatya = {
+
+                }
+                b_kirsya = {
+
+                }
+                b_bursaya = {
+
+                }
+            }
+        }
+    }
+    k_mehekbaz = {
         d_tarshehir = {
             aldmer = "Tarsaeum"
             altmer = "Tarsaeum"
@@ -333,7 +836,7 @@ e_kamal = {
                     skaal = "Balveig"
                 }
                 b_izmoma = {
-
+                    orsimer = "Ysmukul"
                 }
                 b_kastanbul = {
                     aldmer = "Castanda"
@@ -587,7 +1090,13 @@ e_kamal = {
                     skaal = "Bingard"
                 }
                 b_istavas = {
-
+                    aldmer = "Garlas Eyesta"
+                    altmer = "Garlas Eyesta"
+                    atmoran = "Ystanvund"
+                    ayleid = "Garlas Eyesta"
+                    falmer = "Garlas Eyesta"
+                    nord = "Ystanvund"
+                    skaal = "Ystanvund"
                 }
             }
             c_antara = {
@@ -712,32 +1221,32 @@ e_kamal = {
         d_kayara = {
             aldmer = "Ceyarfel"
             altmer = "Ceyarfel"
-            atmoran = "Kayheim"
+            atmoran = "Kyneheim"
             ayleid = "Ceyarfel"
             falmer = "Ceyarfel"
-            nord = "Kayheim"
+            nord = "Kyneheim"
             orsimer = "Kayzal"
-            skaal = "Kayheim"
+            skaal = "Kyneheim"
 
             c_kayara = {
                 aldmer = "Ceyarfel"
                 altmer = "Ceyarfel"
-                atmoran = "Kayheim"
+                atmoran = "Kyneheim"
                 ayleid = "Ceyarfel"
                 falmer = "Ceyarfel"
-                nord = "Kayheim"
+                nord = "Kyneheim"
                 orsimer = "Kayzal"
-                skaal = "Kayheim"
+                skaal = "Kyneheim"
 
                 b_kayara = {
                     aldmer = "Ceyarfel"
                     altmer = "Ceyarfel"
-                    atmoran = "Kayheim"
+                    atmoran = "Kyneheim"
                     ayleid = "Ceyarfel"
                     falmer = "Ceyarfel"
-                    nord = "Kayheim"
+                    nord = "Kyneheim"
                     orsimer = "Kayzal"
-                    skaal = "Kayheim"
+                    skaal = "Kyneheim"
                 }
                 b_tekirsus = {
 
@@ -793,10 +1302,22 @@ e_kamal = {
                     skaal = "Dyekav"
                 }
                 b_adivas = {
-
+                    aldmer = "Garlas Adia"
+                    altmer = "Garlas Adia"
+                    atmoran = "Adinvund"
+                    ayleid = "Garlas Adia"
+                    falmer = "Garlas Adia"
+                    nord = "Adinvund"
+                    skaal = "Adinvund"
                 }
                 b_edvas = {
-
+                    aldmer = "Garlas Aedeva"
+                    altmer = "Garlas Aedeva"
+                    atmoran = "Edvund"
+                    ayleid = "Garlas Aedeva"
+                    falmer = "Garlas Aedeva"
+                    nord = "Edvund"
+                    skaal = "Edvund"
                 }
                 b_shantep = {
 
@@ -1039,8 +1560,22 @@ e_kamal = {
                 }
             }
             c_burfez = {
-                b_burfez = {
+                aldmer = "Burwyll"
+                altmer = "Burwyll"
+                atmoran = "Burveig"
+                ayleid = "Burwyll"
+                falmer = "Burwyll"
+                nord = "Burveig"
+                skaal = "Burveig"
 
+                b_burfez = {
+                    aldmer = "Burwyll"
+                    altmer = "Burwyll"
+                    atmoran = "Burveig"
+                    ayleid = "Burwyll"
+                    falmer = "Burwyll"
+                    nord = "Burveig"
+                    skaal = "Burveig"
                 }
                 b_silazig = {
 
@@ -1189,7 +1724,7 @@ e_kamal = {
                 }
             }
         }
-        d_tekirza= {
+        d_tekirza = {
             c_kamum = {
                 aldmer = "Camuum"
                 altmer = "Camuum"
@@ -1224,7 +1759,13 @@ e_kamal = {
                     skaal = "Adhalla"
                 }
                 b_edivas = {
-
+                    aldmer = "Garlas Edaea"
+                    altmer = "Garlas Edaea"
+                    atmoran = "Edsilvund"
+                    ayleid = "Garlas Edaea"
+                    falmer = "Garlas Edaea"
+                    nord = "Edsilvund"
+                    skaal = "Edsilvund"
                 }
                 b_usazimir = {
                     aldmer = "Usasaeum"
@@ -1385,10 +1926,16 @@ e_kamal = {
                     skaal = "Aidengrav"
                 }
                 b_shanvas = {
-
+                    aldmer = "Garlas Sanaea"
+                    altmer = "Garlas Sanaea"
+                    atmoran = "Shorvund"
+                    ayleid = "Garlas Sanaea"
+                    falmer = "Garlas Sanaea"
+                    nord = "Shorvund"
+                    skaal = "Shorvund"
                 }
                 b_erzuroma = {
-                    
+                    orsimer = "Erzukul"
                 }
             }
             c_sivera = {
@@ -1447,11 +1994,31 @@ e_kamal = {
                 }
             }
             c_samorfez = {
-                b_samorfez = {
+                aldmer = "Samwyll"
+                altmer = "Samwyll"
+                atmoran = "Samveig"
+                ayleid = "Samwyll"
+                falmer = "Samwyll"
+                nord = "Samveig"
+                skaal = "Samveig"
 
+                b_samorfez = {
+                    aldmer = "Samwyll"
+                    altmer = "Samwyll"
+                    atmoran = "Samveig"
+                    ayleid = "Samwyll"
+                    falmer = "Samwyll"
+                    nord = "Samveig"
+                    skaal = "Samveig"
                 }
                 b_mardorfez = {
-
+                    aldmer = "Marwyll"
+                    altmer = "Marwyll"
+                    atmoran = "Marveig"
+                    ayleid = "Marwyll"
+                    falmer = "Marwyll"
+                    nord = "Marveig"
+                    skaal = "Marveig"
                 }
                 b_somaman = {
                     aldmer = "Somamata"
@@ -1484,6 +2051,8 @@ e_kamal = {
             }
         }
         d_kizhrama = {
+            orsimer = "Kizurkul"
+
             c_bingursa = {
                 orsimer = "Bingurzel"
 
@@ -1504,7 +2073,13 @@ e_kamal = {
 
                 }
                 b_kahrfez = {
-
+                    aldmer = "Carwyll"
+                    altmer = "Carwyll"
+                    atmoran = "Karveig"
+                    ayleid = "Carwyll"
+                    falmer = "Carwyll"
+                    nord = "Karveig"
+                    skaal = "Karveig"
                 }
                 b_adiymal = {
                     aldmer = "Adeyewn"
@@ -1527,8 +2102,22 @@ e_kamal = {
                 }
             }
             c_burvas = {
-                b_burvas = {
+                aldmer = "Garlas Bureva"
+                altmer = "Garlas Bureva"
+                atmoran = "Burilvund"
+                ayleid = "Garlas Bureva"
+                falmer = "Garlas Bureva"
+                nord = "Burilvund"
+                skaal = "Burilvund"
 
+                b_burvas = {
+                    aldmer = "Garlas Bureva"
+                    altmer = "Garlas Bureva"
+                    atmoran = "Burilvund"
+                    ayleid = "Garlas Bureva"
+                    falmer = "Garlas Bureva"
+                    nord = "Burilvund"
+                    skaal = "Burilvund"
                 }
                 b_kirigri = {
 
@@ -1556,7 +2145,13 @@ e_kamal = {
 
                 }
                 b_kayanmaras = {
-
+                    aldmer = "Garlas Ceyamar"
+                    altmer = "Garlas Ceyamar"
+                    atmoran = "Kynesilvund"
+                    ayleid = "Garlas Ceyamar"
+                    falmer = "Garlas Ceyamar"
+                    nord = "Kynesilvund"
+                    skaal = "Kynesilvund"
                 }
             }
             c_kiraman = {
@@ -1903,8 +2498,10 @@ e_kamal = {
                 }
             }
             c_balima = {
+                orsimer = "Balkul"
+
                 b_balima = {
-                    
+                    orsimer = "Balkul"
                 }
                 b_tekihisar = {
                     aldmer = "Tecatar"
@@ -2022,7 +2619,7 @@ e_kamal = {
                 nord = "Odengrav"
                 orsimer = "Odhizel"
                 skaal = "Odengrav"
-            
+
                 b_odhisar = {
                     aldmer = "Odatar"
                     altmer = "Odatar"
@@ -2055,7 +2652,7 @@ e_kamal = {
                     aldmer = "Sivelai"
                     altmer = "Sivelai"
                     atmoran = "Silverhill"
-                    ayleid = Sivelai"
+                    ayleid = "Sivelai"
                     falmer = "Sivelai"
                     nord = "Silverhill"
                     orsimer = "Silkogh"
@@ -2182,7 +2779,7 @@ e_kamal = {
             ayleid = "Eyemaea"
             falmer = "Eyemaea"
             nord = "Ysgard"
-            orsimer = Izkaz"
+            orsimer = "Izkaz"
             skaal = "Ysgard"
 
             c_izmalya = {
@@ -2192,9 +2789,9 @@ e_kamal = {
                 ayleid = "Eyemaea"
                 falmer = "Eyemaea"
                 nord = "Ysgard"
-                orsimer = Izkaz"
+                orsimer = "Izkaz"
                 skaal = "Ysgard"
-                
+
                 b_izmalya = {
                     aldmer = "Eyemaea"
                     altmer = "Eyemaea"
@@ -2202,7 +2799,7 @@ e_kamal = {
                     ayleid = "Eyemaea"
                     falmer = "Eyemaea"
                     nord = "Ysgard"
-                    orsimer = Izkaz"
+                    orsimer = "Izkaz"
                     skaal = "Ysgard"
                 }
                 b_diyarit = {
@@ -2245,7 +2842,7 @@ e_kamal = {
             }
             c_surkh = {
                 aldmer = "Surucul"
-                altmer = Surucul"
+                altmer = "Surucul"
                 atmoran = "Surgar"
                 ayleid = "Surucul"
                 falmer = "Surucul"
@@ -2255,7 +2852,7 @@ e_kamal = {
 
                 b_surkh = {
                     aldmer = "Surucul"
-                    altmer = Surucul"
+                    altmer = "Surucul"
                     atmoran = "Surgar"
                     ayleid = "Surucul"
                     falmer = "Surucul"
@@ -2432,7 +3029,7 @@ e_kamal = {
 
                 }
                 b_roshor = {
-                    
+
                 }
             }
             c_mujum = {
@@ -2584,7 +3181,7 @@ e_kamal = {
                     altmer = "Oburasecul"
                     atmoran = "Oburvild"
                     ayleid = "Oburasecul"
-                    falmer = Oburasecul"
+                    falmer = "Oburasecul"
                     nord = "Oburvid"
                     skaal = "Oburvild"
                 }
@@ -2598,11 +3195,11 @@ e_kamal = {
             c_manivas = {
                 aldmer = "Garlas Mania"
                 altmer = "Garlas Mania"
-                atmoran = "Manivund"
+                atmoran = "Mansilvund"
                 ayleid = "Garlas Mania"
                 falmer = "Garlas Mania"
-                nord = "Manivund"
-                skaal = "Manivund"
+                nord = "Mansilvund"
+                skaal = "Mansilvund"
 
                 b_manivas = {
                     aldmer = "Garlas Mania"
