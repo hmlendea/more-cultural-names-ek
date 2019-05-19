@@ -2891,29 +2891,27 @@ e_kamal = {
                 }
             }
             c_garibak = {
-                b_garibak = {
-                    b_farkhar = {
-                        aldmer = "Farcatar"
-                        altmer = "Farcatar"
-                        atmoran = "Farkengrav"
-                        ayleid = "Faracatar"
-                        falmer = "Farcatar"
-                        nord = "Farkengrav"
-                        orsimer = "Farkhzel"
-                        skaal = "Farkengrav"
-                    }
-                    b_buragen = {
+                b_farkhar = {
+                    aldmer = "Farcatar"
+                    altmer = "Farcatar"
+                    atmoran = "Farkengrav"
+                    ayleid = "Faracatar"
+                    falmer = "Farcatar"
+                    nord = "Farkengrav"
+                    orsimer = "Farkhzel"
+                    skaal = "Farkengrav"
+                }
+                b_buragen = {
 
-                    }
-                    b_chubak = {
+                }
+                b_chubak = {
 
-                    }
-                    b_karamazor = {
+                }
+                b_karamazor = {
 
-                    }
-                    b_karapchi = {
+                }
+                b_karapchi = {
 
-                    }
                 }
             }
         }
