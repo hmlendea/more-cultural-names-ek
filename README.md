@@ -7,6 +7,8 @@ This is a sub-mod for CK2's Elder Kings mod that add new culture-specific names 
 It currently brings around **2,350** new cultural landed title names!
 It was last updated for EK version 0.2.3.5, CK2 version 3.0.1.1
 
+Note: The vast majority of those names are made-up, as in the canon we only have very few places with their names translated into other language.
+
 # Useful links
 
 - [GitHub page](https://github.com/hmlendea/CK2-EK-MoreCulturalNames)
@@ -57,5 +59,7 @@ Currently, the development focuses on the following areas:
 - Do not override names already provided by EK, unless there is a good reason to do so
 - Check with the original EK files and take note of the already existing names (especially for similar cultures) and the name displayed ingame (which might be very different from the internal name in the files, e.g. `d_galich` is Halych ingame)
 - Make sure there are no other dependencies than EK itself.
+- Only use a suffix for another suffix of the original native language
+- Sometimes it makes sense to match certain parts of a name to a word, but make sure you do it in all instances where it appears
 
 Additional guidelines and rules can be found in header comments inside specific files.
