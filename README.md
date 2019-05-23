@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/hmlendea/ck2-ek-more-cultural-names.svg?branch=master)](https://travis-ci.com/hmlendea/ck2-ek-more-cultural-names)
+[![Build Status](https://travis-ci.com/hmlendea/ck2-ek-mcn.svg?branch=master)](https://travis-ci.com/hmlendea/ck2-ek-mcn)
 
 # About
 
@@ -11,14 +11,14 @@ Note: The vast majority of those names are made-up, as in the canon we only have
 
 # Useful links
 
-- [GitHub page](https://github.com/hmlendea/CK2-EK-MoreCulturalNames)
+- [GitHub page](https://github.com/hmlendea/ck2-ek-mcn)
 - [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1745899430)
 
 # Installation
 
 Just subscribe to the [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1745899430) of this mod.
 
-If you don't own this game on Steam, or you want to try the in-development version, you can download the latest release from the [GitHub page](https://github.com/hmlendea/ck2-ek-more-cultural-names/releases) and extract the contents into your "mod" directory alongside your current EK installation.
+If you don't own this game on Steam, or you want to try the in-development version, you can download the latest release from the [GitHub page](https://github.com/hmlendea/ck2-ek-mcn/releases) and extract the contents into your "mod" directory alongside your current EK installation.
 
 **Note:** This mod is OS-agnostic, which means it will work on all operating systems supported by CK2 and EK (Windows, Linux and Mac)
 
@@ -37,7 +37,7 @@ You are welcome to bring any suggestion, feedback or modification to this projec
 There are a few ways you can do so:
 
 1. You can create git pull requests for this repository (This requires git knowledge)
-2. You can raise a new "[issue](https://github.com/hmlendea/ck2-ek-more-cultural-names/issues)" for this project
+2. You can raise a new "[issue](https://github.com/hmlendea/ck2-ek-mcn/issues)" for this project
 4. You can reply on the [Steam discussion thread](https://steamcommunity.com/workshop/filedetails/discussion/1745899430/2530372519569641320/)
 
 It would also be very helpful if you could provide a link to a source that can atest the authenticity of the names you submitted, when possible.
