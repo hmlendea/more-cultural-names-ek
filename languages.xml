@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Language>
+    <Id>Atmoran</Id>
+    <GameIds>
+      <GameId game="CK2EK">atmoran</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Aldmeri</Id>
+    <GameIds>
+      <GameId game="CK2EK">aldmer</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Elvish</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Altmeri</Id>
+    <GameIds>
+      <GameId game="CK2EK">altmer</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Elvish</LanguageId>
+      <LanguageId>Aldmeri</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Ayleidic</Id>
+    <GameIds>
+      <GameId game="CK2EK">ayleid</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Altmeri</LanguageId>
+      <LanguageId>Aldmeri</LanguageId>
+      <LanguageId>Elvish</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Cyrodiilic</Id>
+    <GameIds>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Draugr</Id>
+    <GameIds>
+      <GameId game="CK2EK">draugr</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Elvish</Id>
+    <GameIds>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Falmeri</Id>
+    <GameIds>
+      <GameId game="CK2EK">falmer</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Elvish</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Orcish</Id>
+    <GameIds>
+      <GameId game="CK2EK">orsimer</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Nord</Id>
+    <GameIds>
+      <GameId game="CK2EK">nord</GameId>
+      <GameId game="CK2EK">skaal</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Cyrodiilic</LanguageId>
+      <LanguageId>Atmoran</LanguageId>
+    </FallbackLanguages>
+  </Language>
+</ArrayOfLanguage>
