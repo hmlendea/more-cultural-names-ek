@@ -42,8 +42,6 @@
   </Language>
   <Language>
     <Id>Cyrodiilic</Id>
-    <GameIds>
-    </GameIds>
   </Language>
   <Language>
     <Id>Draugr</Id>
@@ -53,8 +51,6 @@
   </Language>
   <Language>
     <Id>Elvish</Id>
-    <GameIds>
-    </GameIds>
   </Language>
   <Language>
     <Id>Falmeri</Id>
