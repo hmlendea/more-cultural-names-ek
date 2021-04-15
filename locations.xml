@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfLocationEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LocationEntity>
+    <Id>adapistan</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_adapistan</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic">Drunkhammer</Name>
+      <Name language="Elvish">Adapistani</Name>
+      <Name language="Orcish">Ankogh</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>aktau</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_aktau</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Akel</Name>
+      <Name language="Elvish">Actepe</Name>
+      <Name language="Orcish">Aktel</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>ankazmir</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_ankazmir</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Akenskar</Name>
+      <Name language="Elvish">Ancaseum</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>ankirajan</Id>
     <GameIds>
       <GameId game="CK2EK">b_ankirajan</GameId>
@@ -9,6 +41,50 @@
       <Name language="Atmoran">Ankhalla</Name>
       <Name language="Elvish">Ancylata</Name>
       <Name language="Orcish">Ankogh</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>antara</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_antara</GameId>
+      <GameId game="CK2EK">c_antara</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Antheim</Name>
+      <Name language="Elvish">Antarfel</Name>
+      <Name language="Orcish">Antzal</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>balakan</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_balakan</GameId>
+      <GameId game="CK2EK">c_balakan</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Balhalla</Name>
+      <Name language="Elvish">Balacata</Name>
+      <Name language="Orcish">Balkogh</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>balfez</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_balfez</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Balveig</Name>
+      <Name language="Elvish">Balwyll</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>balikaybin</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_balikaybin</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Balkenstad</Name>
+      <Name language="Elvish">Baliniim</Name>
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -33,6 +109,47 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>binalya</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_binalya</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Bingard</Name>
+      <Name language="Elvish">Beyenalea</Name>
+      <Name language="Orcish">Binalkaz</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bingsa</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_bingsa</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish">Bingzel</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>binkale</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_binkale</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Binkav</Name>
+      <Name language="Elvish">Bincame</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bogat</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_bogat</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Bogholm</Name>
+      <Name language="Elvish">Bocatar</Name>
+      <Name language="Orcish">Bogan</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>bukhar</Id>
     <GameIds>
       <GameId game="CK2EK">b_bukhar</GameId>
@@ -50,6 +167,28 @@
     </GameIds>
     <Names>
       <Name language="Elvish">Burlore</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>danghara</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_danghara</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Dangheim</Name>
+      <Name language="Elvish">Dangafel</Name>
+      <Name language="Orcish">Danghzal</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>dardar</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_dardar</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Dardngrav</Name>
+      <Name language="Elvish">Daratar</Name>
+      <Name language="Orcish">Dardzel</Name>
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -84,6 +223,16 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>duzdu</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_duzdu</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Duskygg</Name>
+      <Name language="Elvish">Dusucen</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>erzurum</Id>
     <GameIds>
       <GameId game="CK2EK">b_erzurum</GameId>
@@ -101,6 +250,46 @@
     <Names>
       <Name language="Atmoran">Ghoskagr</Name>
       <Name language="Elvish">Gosmarand</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>haidar</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_haidar</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Heidngrav</Name>
+      <Name language="Elvish">Heyeatar</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>hamar</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_hamar</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Hamengrav</Name>
+      <Name language="Elvish">Camatar</Name>
+      <Name language="Orcish">Hamazel</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>istavas</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_istavas</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Ystanvund</Name>
+      <Name language="Elvish">Garlas Eyesta</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>izmoma</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_izmoma</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish">Ysmukul</Name>
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -134,6 +323,17 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>kastanbul</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_kastanbul</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Kastenveld</Name>
+      <Name language="Elvish">Castanda</Name>
+      <Name language="Orcish">Kasterd</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>kayakale</Id>
     <GameIds>
       <GameId game="CK2EK">b_kayakale</GameId>
@@ -151,6 +351,48 @@
     <Names>
       <Name language="Elvish">Ceyacarin</Name>
       <Name language="Orcish">Kacaroz</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>khirdalan</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_khirdalan</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Kirhalla</Name>
+      <Name language="Elvish">Cyrdasata</Name>
+      <Name language="Orcish">Khirkogh</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>kurgon</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_kurgon</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Kurgvild</Name>
+      <Name language="Elvish">Curcasecul</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>lankaran</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_lankaran</GameId>
+      <GameId game="CK2EK">c_lankaran</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Lankhalla</Name>
+      <Name language="Elvish">Lancasata</Name>
+      <Name language="Orcish">Lankogh</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>manavsa</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_manavsa</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish">Manavzel</Name>
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -194,6 +436,16 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>ramon</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_ramon</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Ramunvild</Name>
+      <Name language="Elvish">Ramasecul</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>ravenscar</Id>
     <GameIds>
       <GameId game="CK2EK">b_ravenscar</GameId>
@@ -228,13 +480,69 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>wolfskull</Id>
+    <Id>taggau</Id>
     <GameIds>
-      <GameId game="CK2EK">b_wolfskull</GameId>
+      <GameId game="CK2EK">b_taggau</GameId>
     </GameIds>
     <Names>
-      <Name language="Cyrodiilic">Wolfskull</Name>
-      <Name language="Draugr">Grohiik-klov</Name>
+      <Name language="Atmoran">Taggel</Name>
+      <Name language="Elvish">Tagape</Name>
+      <Name language="Orcish">Tagel</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>tarshehir</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_tarshehir</GameId>
+      <GameId game="CK2EK">c_tarshehir</GameId>
+      <GameId game="CK2EK">d_tarshehir</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Tarvunskar</Name>
+      <Name language="Elvish">Tarsaeum</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>tekirsun</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_tekirsun</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Teksunn</Name>
+      <Name language="Elvish">Teceyuum</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>temamir</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_temamir</GameId>
+      <GameId game="CK2EK">c_temamir</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Torvunskar</Name>
+      <Name language="Elvish">Temaeum</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>temamir</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_temamir</GameId>
+      <GameId game="CK2EK">c_temamir</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Torvunskar</Name>
+      <Name language="Elvish">Temaeum</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>usazan</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_usazan</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Uzhalla</Name>
+      <Name language="Elvish">Usata</Name>
+      <Name language="Orcish">Uzkogh</Name>
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -253,6 +561,16 @@
     </GameIds>
     <Names>
       <Name language="Elvish">Yesilor</Name>
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>yevlakh</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_yevlakh</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran">Yvelgar</Name>
+      <Name language="Elvish">Eyevlacul</Name>
     </Names>
   </LocationEntity>
 </ArrayOfLocationEntity>

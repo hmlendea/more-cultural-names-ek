@@ -5,6 +5,10 @@
     <GameIds>
       <GameId game="CK2EK">atmoran</GameId>
     </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Nord</LanguageId>
+      <LanguageId>Cyrodiilic</LanguageId>
+    </FallbackLanguages>
   </Language>
   <Language>
     <Id>Aldmeri</Id>
