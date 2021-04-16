@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Language>
+    <Id>Akaviri_Common</Id>
+    <GameIds>
+      <GameId game="CK2EK">akaviri</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Akaviri</Id>
+    <FallbackLanguages>
+      <LanguageId>Akaviri_Common</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
     <Id>Atmoran</Id>
     <GameIds>
       <GameId game="CK2EK">atmoran</GameId>
@@ -41,6 +53,26 @@
     </FallbackLanguages>
   </Language>
   <Language>
+    <Id>Bretonnic</Id>
+    <GameIds>
+      <GameId game="CK2EK">breton</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Cyrodiilic</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Chimeri</Id>
+    <GameIds>
+      <GameId game="CK2EK">chimer</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Elvish</LanguageId>
+      <LanguageId>Aldmeri</LanguageId>
+      <LanguageId>Altmeri</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
     <Id>Cyrodiilic</Id>
   </Language>
   <Language>
@@ -48,6 +80,10 @@
     <GameIds>
       <GameId game="CK2EK">draugr</GameId>
     </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Undead</LanguageId>
+      <LanguageId>Atmoran</LanguageId>
+    </FallbackLanguages>
   </Language>
   <Language>
     <Id>Elvish</Id>
@@ -62,10 +98,27 @@
     </FallbackLanguages>
   </Language>
   <Language>
-    <Id>Orcish</Id>
+    <Id>Imperial</Id>
     <GameIds>
-      <GameId game="CK2EK">orsimer</GameId>
+      <GameId game="CK2EK">colovian</GameId>
+      <GameId game="CK2EK">imperial</GameId>
+      <GameId game="CK2EK">nibenean</GameId>
     </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Cyrodiilic</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Islander</Id>
+  </Language>
+  <Language>
+    <Id>Kamali</Id>
+    <GameIds>
+      <GameId game="CK2EK">kamal</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Akaviri_Common</LanguageId>
+    </FallbackLanguages>
   </Language>
   <Language>
     <Id>Nord</Id>
@@ -76,6 +129,99 @@
     <FallbackLanguages>
       <LanguageId>Cyrodiilic</LanguageId>
       <LanguageId>Atmoran</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Orcish</Id>
+    <GameIds>
+      <GameId game="CK2EK">orsimer</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>PoTun</Id>
+    <GameIds>
+      <GameId game="CK2EK">potun</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Akaviri_Common</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Quey</Id>
+    <GameIds>
+      <GameId game="CK2EK">quey</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Islander</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Redguardish</Id>
+    <GameIds>
+      <GameId game="CK2EK">crown</GameId>
+      <GameId game="CK2EK">forebear</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Cyrodiilic</LanguageId>
+      <LanguageId>Yokudan</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Reachmannic</Id>
+    <GameIds>
+      <GameId game="CK2EK">reachmen</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Sarpa</Id>
+    <GameIds>
+      <GameId game="CK2EK">sarpa</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Skeleton</Id>
+    <GameIds>
+      <GameId game="CK2EK">skeleton</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Undead</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Sload</Id>
+    <GameIds>
+      <GameId game="CK2EK">sload</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>TangMo</Id>
+    <GameIds>
+      <GameId game="CK2EK">tangmo</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Akaviri_Common</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Tsaesci</Id>
+    <GameIds>
+      <GameId game="CK2EK">tsaesci</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Akaviri_Common</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Undead</Id>
+  </Language>
+  <Language>
+    <Id>Yokudan</Id>
+    <GameIds>
+      <GameId game="CK2EK">yokudan</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Redguardish</LanguageId>
+      <LanguageId>Cyrodiilic</LanguageId>
     </FallbackLanguages>
   </Language>
 </ArrayOfLanguage>
