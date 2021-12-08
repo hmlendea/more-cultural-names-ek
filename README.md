@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/hmlendea/ck2-ek-mcn.svg?branch=master)](https://travis-ci.com/hmlendea/ck2-ek-mcn)
+[![Build Status](https://github.com/hmlendea/more-cultural-names-ek/actions/workflows/build.yml/badge.svg)](https://github.com/hmlendea/more-cultural-names-ek/actions/workflows/build.yml)
 
 # About
 
