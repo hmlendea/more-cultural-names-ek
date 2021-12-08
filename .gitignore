@@ -2,3 +2,6 @@
 build/
 out/
 
+# Builder
+.builder/*
+.more-cultural-names-builder_*_*.zip
