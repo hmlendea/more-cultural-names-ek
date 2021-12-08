@@ -740,7 +740,7 @@
   <LocationEntity>
     <Id>castle_joy_county</Id>
     <GameIds>
-      <GameId game="CK2EK">b_castlejoy</GameId>
+      <GameId game="CK2EK">c_castlejoy</GameId>
     </GameIds>
     <FallbackLocations>
       <LocationId>castle_joy</LocationId>
@@ -2545,7 +2545,7 @@
       <Name language="Aldmeri" value="Aldmeri Potentate" />
       <Name language="Altmeri" value="Altmeri Potentate" />
       <Name language="Ayleidic" value="Ayleidi Potentate" />
-      <Name language="Breton" value="Breton Potentate" />
+      <Name language="Bretonnic" value="Breton Potentate" />
       <Name language="Chimeri" value="Velothi Potentate" />
       <Name language="Falmeri" value="Falmeri Potentate" />
       <Name language="Imperial" value="Imperial Potentate" />
@@ -2711,7 +2711,7 @@
       <GameId game="CK2EK">b_sancretor</GameId>
     </GameIds>
     <Names>
-      <Name language="Breton" value="Golden Hill" />
+      <Name language="Bretonnic" value="Golden Hill" />
       <Name language="Cyrodiilic" value="Sancre Tor" />
     </Names>
   </LocationEntity>
