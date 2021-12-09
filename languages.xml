@@ -232,6 +232,13 @@
     </GameIds>
   </Language>
   <Language>
+    <Id>Taagra</Id>
+    <GameIds>
+      <GameId game="CK2EK">anequinan</GameId>
+      <GameId game="CK2EK">pellitinian</GameId>
+    </GameIds>
+  </Language>
+  <Language>
     <Id>TangMo</Id>
     <GameIds>
       <GameId game="CK2EK">tangmo</GameId>
