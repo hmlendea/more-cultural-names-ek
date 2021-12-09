@@ -1,0 +1,1813 @@
+
+
+
+
+  <LocationEntity>
+    <Id>frostfire</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_frostfire</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Molamafre" />
+      <Name language="Atmoran" value="Horunn" />
+      <Name language="Ayleidic" value="Molamafre" />
+      <Name language="Chimeri" value="Molamafre" />
+      <Name language="Nord" value="Horunn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>frostfire</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_frostfire</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Molamafre" />
+      <Name language="Ayleidic" value="Molamafre" />
+      <Name language="Chimeri" value="Molamafre" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bruma</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_bruma</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Anga" />
+      <Name language="Ayleidic" value="Anga" />
+      <Name language="Chimeri" value="Anga" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>cloudruler</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_cloudruler</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Rielle" />
+      <Name language="Ayleidic" value="Rielle" />
+      <Name language="Chimeri" value="Rielle" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>canulus</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_canulus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Wendelbek" />
+      <Name language="Atmoran" value="Redwater" />
+      <Name language="Ayleidic" value="Wendelbek" />
+      <Name language="Chimeri" value="Wendelbek" />
+      <Name language="Nord" value="Redwater" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bloodrun</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_bloodrun</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Welke" />
+      <Name language="Ayleidic" value="Welke" />
+      <Name language="Chimeri" value="Welke" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>facian</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_facian</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Mackamentain" />
+      <Name language="Ayleidic" value="Mackamentain" />
+      <Name language="Chimeri" value="Mackamentain" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>entius</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_entius</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Ondo" />
+      <Name language="Ayleidic" value="Ondo" />
+      <Name language="Chimeri" value="Ondo" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>aurus</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_aurus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nenalata" />
+      <Name language="Ayleidic" value="Nenalata" />
+      <Name language="Chimeri" value="Nenalata" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>aurus</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_aurus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nenalata" />
+      <Name language="Ayleidic" value="Nenalata" />
+      <Name language="Chimeri" value="Nenalata" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>cedrian</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_cedrian</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nornal" />
+      <Name language="Ayleidic" value="Nornal" />
+      <Name language="Chimeri" value="Nornal" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bramblepoint</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_bramblepoint</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Marspanga" />
+      <Name language="Ayleidic" value="Marspanga" />
+      <Name language="Chimeri" value="Marspanga" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>sundercliff</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_sundercliff</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Varsa" />
+      <Name language="Ayleidic" value="Varsa" />
+      <Name language="Chimeri" value="Varsa" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>sundercliff</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_sundercliff</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Varsa Baalim" />
+      <Name language="Ayleidic" value="Varsa Baalim" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>blackwood</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_blackwood</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Veyond" />
+      <Name language="Ayleidic" value="Veyond" />
+      <Name language="Chimeri" value="Veyond" />
+      <Name language="Cyrodiilic_Col" value="Bulwark" />
+      <Name language="Cyrodiilic_Imp" value="Blackwood" />
+      <Name language="Cyrodiilic_Nib" value="Blackwood" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bulwark</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_bulwark</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Cava" />
+      <Name language="Ayleidic" value="Cava" />
+      <Name language="Chimeri" value="Cava" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>blackwood</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_blackwood</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Beldameld" />
+      <Name language="Ayleidic" value="Beldameld" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>teleman</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_teleman</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Arpenia" />
+      <Name language="Ayleidic" value="Arpenia" />
+      <Name language="Chimeri" value="Arpenia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>teleman</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_teleman</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Atatar" />
+      <Name language="Ayleidic" value="Atatar" />
+      <Name language="Chimeri" value="Atatar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>doublecross</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_doublecross</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Arpenia" />
+      <Name language="Ayleidic" value="Arpenia" />
+      <Name language="Chimeri" value="Arpenia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>blankenmarch</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_blankenmarch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Fenatar" />
+      <Name language="Ayleidic" value="Fenatar" />
+      <Name language="Chimeri" value="Fenatar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>redman</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_redman</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Wendesel" />
+      <Name language="Ayleidic" value="Wendesel" />
+      <Name language="Chimeri" value="Wendesel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>deepscorn</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_deepscorn</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nefari" />
+      <Name language="Ayleidic" value="Nefari" />
+      <Name language="Chimeri" value="Nefari" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>redman</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_redman</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Wendesel" />
+      <Name language="Ayleidic" value="Wendesel" />
+      <Name language="Chimeri" value="Wendesel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>darkfathom</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_darkfathom</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Laloria" />
+      <Name language="Ayleidic" value="Laloria" />
+      <Name language="Chimeri" value="Laloria" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>variela</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_variela</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Canosel" />
+      <Name language="Ayleidic" value="Canosel" />
+      <Name language="Chimeri" value="Canosel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>harcane</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_harcane</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Bangrara" />
+      <Name language="Ayleidic" value="Bangrara" />
+      <Name language="Chimeri" value="Bangrara" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>scinia</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_scinia</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Gorigarlas" />
+      <Name language="Ayleidic" value="Gorigarlas" />
+      <Name language="Chimeri" value="Gorigarlas" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>scinia</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_scinia</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Gorigarlas" />
+      <Name language="Ayleidic" value="Gorigarlas" />
+      <Name language="Chimeri" value="Gorigarlas" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>farragut</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_farragut</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Kemen" />
+      <Name language="Ayleidic" value="Kemen" />
+      <Name language="Chimeri" value="Kemen" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>aldos</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_aldos</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Liscand" />
+      <Name language="Ayleidic" value="Liscand" />
+      <Name language="Chimeri" value="Liscand" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>kingscrest</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_kingscrest</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Fanacas" />
+      <Name language="Atmoran" value="Jerall" />
+      <Name language="Ayleidic" value="Fanacas" />
+      <Name language="Chimeri" value="Fanacas" />
+      <Name language="Nord" value="Jerall" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>cheydinhal</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_cheydinhal</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Vahtacen" />
+      <Name language="Ayleidic" value="Vahtacen" />
+      <Name language="Chimeri" value="Vahtacen" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>anvil</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_anvil</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Garlas" />
+      <Name language="Ayleidic" value="Garlas" />
+      <Name language="Chimeri" value="Garlas" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>strand</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_strand</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Agea" />
+      <Name language="Ayleidic" value="Agea" />
+      <Name language="Chimeri" value="Agea" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>crowhaven</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_crowhaven</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Beldaburo" />
+      <Name language="Ayleidic" value="Beldaburo" />
+      <Name language="Chimeri" value="Beldaburo" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>crowhaven</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_crowhaven</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Beldaburo" />
+      <Name language="Ayleidic" value="Beldaburo" />
+      <Name language="Chimeri" value="Beldaburo" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>sutch</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_sutch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Niryastare" />
+      <Name language="Ayleidic" value="Niryastare" />
+      <Name language="Chimeri" value="Niryastare" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>varus</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_varus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Niryastare" />
+      <Name language="Ayleidic" value="Niryastare" />
+      <Name language="Chimeri" value="Niryastare" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>skingrad</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_skingrad</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Silorn" />
+      <Name language="Ayleidic" value="Silorn" />
+      <Name language="Chimeri" value="Silorn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>brindlehome</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_brindlehome</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Elenglynn" />
+      <Name language="Ayleidic" value="Elenglynn" />
+      <Name language="Chimeri" value="Elenglynn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>vlastarus</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_vlastarus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Ceyatatar" />
+      <Name language="Ayleidic" value="Ceyatatar" />
+      <Name language="Chimeri" value="Ceyatatar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>virtue</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_virtue</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Vindasel" />
+      <Name language="Ayleidic" value="Vindasel" />
+      <Name language="Chimeri" value="Vindasel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>gottlesfont</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_gottlesfont</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Narfinsel" />
+      <Name language="Ayleidic" value="Narfinsel" />
+      <Name language="Chimeri" value="Narfinsel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>virtue</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_virtue</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Vindasel" />
+      <Name language="Ayleidic" value="Vindasel" />
+      <Name language="Chimeri" value="Vindasel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>roebeck</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_roebeck</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nornalhorst" />
+      <Name language="Ayleidic" value="Nornalhorst" />
+      <Name language="Chimeri" value="Nornalhorst" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>roebeck</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_roebeck</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Twyll" />
+      <Name language="Ayleidic" value="Twyll" />
+      <Name language="Chimeri" value="Twyll" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>blackboot</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_blackboot</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nenyond" />
+      <Name language="Ayleidic" value="Nenyond" />
+      <Name language="Chimeri" value="Nenyond" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>kvatch</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_kvatch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Miscarcand" />
+      <Name language="Ayleidic" value="Miscarcand" />
+      <Name language="Chimeri" value="Miscarcand" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>linchal</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_linchal</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Trumbe" />
+      <Name language="Ayleidic" value="Trumbe" />
+      <Name language="Chimeri" value="Trumbe" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>ontus</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_ontus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nonungalo" />
+      <Name language="Ayleidic" value="Nonungalo" />
+      <Name language="Chimeri" value="Nonungalo" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>linchal</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_linchal</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Talwinque" />
+      <Name language="Ayleidic" value="Talwinque" />
+      <Name language="Chimeri" value="Talwinque" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>dirich</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_dirich</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Varondo" />
+      <Name language="Ayleidic" value="Varondo" />
+      <Name language="Chimeri" value="Varondo" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>imperialisle</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_imperialisle</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Celediil" />
+      <Name language="Ayleidic" value="Celediil" />
+      <Name language="Chimeri" value="Celediil" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>imperialisle</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_imperialisle</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="White-Gold" />
+      <Name language="Ayleidic" value="White-Gold" />
+      <Name language="Chimeri" value="White-Gold" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>greenemperor</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_greenemperor</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Wenayatarnabye" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>rumare</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_rumare</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Sercen" />
+      <Name language="Ayleidic" value="Sercen" />
+      <Name language="Chimeri" value="Sercen" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>nikel</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_nikel</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Delodiil" />
+      <Name language="Ayleidic" value="Delodiil" />
+      <Name language="Chimeri" value="Delodiil" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>weye</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_weye</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Fancaseoul" />
+      <Name language="Ayleidic" value="Fancaseoul" />
+      <Name language="Chimeri" value="Fancaseoul" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>aleswell</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_aleswell</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Piukanda" />
+      <Name language="Ayleidic" value="Piukanda" />
+      <Name language="Chimeri" value="Piukanda" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>pellsgate</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_pellsgate</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Sardavar" />
+      <Name language="Ayleidic" value="Sardavar" />
+      <Name language="Chimeri" value="Sardavar" />
+      <Name language="Cyrodiilic_Col" value="Pell's Gate" />
+      <Name language="Cyrodiilic_Imp" value="Pell's Gate" />
+      <Name language="Cyrodiilic_Nib" value="Alessia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>alessia</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_alessia</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Sardavar" />
+      <Name language="Ayleidic" value="Sardavar" />
+      <Name language="Chimeri" value="Sardavar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>urasek</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_urasek</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Vilverin" />
+      <Name language="Ayleidic" value="Vilverin" />
+      <Name language="Chimeri" value="Vilverin" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>urasek</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_urasek</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Abagarlas" />
+      <Name language="Ayleidic" value="Abagarlas" />
+      <Name language="Chimeri" value="Abagarlas" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>heartlands</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_heartlands</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Culotte" />
+      <Name language="Atmoran" value="Cropsford" />
+      <Name language="Ayleidic" value="Culotte" />
+      <Name language="Bretonnic" value="Cropsford" />
+      <Name language="Chimeri" value="Culotte" />
+      <Name language="Cyrodiilic_Col" value="Cropsford" />
+      <Name language="Cyrodiilic_Imp" value="Sejanus" />
+      <Name language="Cyrodiilic_Nib" value="Sejanus" />
+      <Name language="Nord" value="Cropsford" />
+      <Name language="Reachmannic" value="Cropsford" />
+      <Name language="Nord_Skaal" value="Cropsford" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>sejanus</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_sejanus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Vanua" />
+      <Name language="Ayleidic" value="Vanua" />
+      <Name language="Chimeri" value="Vanua" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>cloudruler</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_cloudruler</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Rielle" />
+      <Name language="Ayleidic" value="Rielle" />
+      <Name language="Chimeri" value="Rielle" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>colovia</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_colovia</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Ninendava" />
+      <Name language="Ayleidic" value="Ninendava" />
+      <Name language="Chimeri" value="Ninendava" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>nibenay</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_nibenay</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Nenalata" />
+      <Name language="Ayleidic" value="Nenalata" />
+      <Name language="Chimeri" value="Nenalata" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>canulus</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_canulus</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Wendelbek" />
+      <Name language="Atmoran" value="Redwater" />
+      <Name language="Ayleidic" value="Wendelbek" />
+      <Name language="Chimeri" value="Wendelbek" />
+      <Name language="Nord" value="Redwater" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>blackwood</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_blackwood</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Veyond" />
+      <Name language="Ayleidic" value="Veyond" />
+      <Name language="Chimeri" value="Veyond" />
+      <Name language="Cyrodiilic_Col" value="Bulwark" />
+      <Name language="Cyrodiilic_Imp" value="Blackwood" />
+      <Name language="Cyrodiilic_Nib" value="Blackwood" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>cheydinhal</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_cheydinhal</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Vahtacen" />
+      <Name language="Ayleidic" value="Vahtacen" />
+      <Name language="Chimeri" value="Vahtacen" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>anvil</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_anvil</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Garlas" />
+      <Name language="Ayleidic" value="Garlas" />
+      <Name language="Chimeri" value="Garlas" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>skingrad</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_skingrad</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Silorn" />
+      <Name language="Ayleidic" value="Silorn" />
+      <Name language="Chimeri" value="Silorn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>kvatch</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_kvatch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Miscarcand" />
+      <Name language="Ayleidic" value="Miscarcand" />
+      <Name language="Chimeri" value="Miscarcand" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bruma</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_bruma</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Anga" />
+      <Name language="Ayleidic" value="Anga" />
+      <Name language="Chimeri" value="Anga" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>leyawiin</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_leyawiin</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Telepe" />
+      <Name language="Ayleidic" value="Telepe" />
+      <Name language="Chimeri" value="Telepe" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>highrock</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_highrock</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Orsifel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>northmoor</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_northmoor</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Reachmannic" value="Beldama" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>orvault</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_orvault</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Reachmannic" value="Cath Bedraud" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>balfiera</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_balfiera</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Ada-Mantia" />
+      <Name language="Ayleidic" value="Ada-Mantia" />
+      <Name language="Chimeri" value="Ada-Mantia" />
+      <Name language="Falmeri" value="Ada-Mantia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>balfiera</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_balfiera</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Ada-Mantia" />
+      <Name language="Ayleidic" value="Ada-Mantia" />
+      <Name language="Chimeri" value="Ada-Mantia" />
+      <Name language="Falmeri" value="Ada-Mantia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>kambria</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_kambria</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Torug" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>firebrand</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_firebrand</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Torug" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>wrothgarian</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_wrothgarian</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Wrothgar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>wrothgarian</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_wrothgarian</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Wrothgarian" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>azracrossing</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_azracrossing</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Bisnensel" />
+      <Name language="Ayleidic" value="Bisnensel" />
+      <Name language="Chimeri" value="Bisnensel" />
+      <Name language="Falmeri" value="Bisnensel" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>lesperon</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_lesperon</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Baloth" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>skyborn</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_skyborn</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Bromjunaar" />
+      <Name language="Draugr" value="Bromjunaar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eastmarch</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_eastmarch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Ylgermet" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>windhelm</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_windhelm</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Ylgermet" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eastmarch</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_eastmarch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Narzulbur" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>shearstone</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_shearstone</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Nord" value="Kynesgrove" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>rkund</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_rkund</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Largashbur" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>harmugstalh</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_harmugstalh</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Reachmannic" value="Druadach" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>reachcliff</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_reachcliff</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Dushnikh" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>sungard</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_sungard</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Bilegulch" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>ingmarok</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_ingmarok</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Reachmannic" value="Hagsend" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>solitude</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_solitude</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Haafingar" />
+      <Name language="Nord" value="Haafingar" />
+      <Name language="Reachmannic" value="Haafingar" />
+      <Name language="Nord_Skaal" value="Haafingar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>hjaalmarch</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_hjaalmarch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Morthal" />
+      <Name language="Ayleidic" value="Morthal" />
+      <Name language="Chimeri" value="Morthal" />
+      <Name language="Redguardish_Cr" value="Morthal" />
+      <Name language="Redguardish_Fb" value="Morthal" />
+      <Name language="Orcish" value="Morthal" />
+      <Name language="Sarpa" value="Morthal" />
+      <Name language="Yokudan" value="Morthal" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eastmarch</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_eastmarch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Ylgermet" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>therift</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_therift</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Fallowstone" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>thepale</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_thepale</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Dawnstar" />
+      <Name language="Ayleidic" value="Dawnstar" />
+      <Name language="Chimeri" value="Dawnstar" />
+      <Name language="Redguardish_Cr" value="Dawnstar" />
+      <Name language="Redguardish_Fb" value="Dawnstar" />
+      <Name language="Orcish" value="Dawnstar" />
+      <Name language="Sarpa" value="Dawnstar" />
+      <Name language="Yokudan" value="Dawnstar" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>felsaad</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_felsaad</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic_Col" value="Ashfallow" />
+      <Name language="Cyrodiilic" value="Ashfallow" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>hirstang</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_hirstang</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic_Col" value="Frostmoth" />
+      <Name language="Cyrodiilic" value="Frostmoth" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>moesring</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_moesring</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic_Col" value="Northshore" />
+      <Name language="Cyrodiilic" value="Northshore" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>hammerfell</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_hammerfell</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Volenfell" />
+      <Name language="Ayleidic" value="Volenfell" />
+      <Name language="Chimeri" value="Volenfell" />
+      <Name language="Orcish" value="Volenfell" />
+      <Name language="Yokudan" value="Ra' Gada" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>skaven</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_skaven</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Redguardish" value="Ska'vyn" />
+      <Name language="Yokudan" value="Ska'vyn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>skaven</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_skaven</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Redguardish" value="Ska'vyn" />
+      <Name language="Yokudan" value="Ska'vyn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>hnas</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_hnas</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Rourken" />
+      <Name language="Atmoran" value="Hew's Bane" />
+      <Name language="Ayleidic" value="Rourken" />
+      <Name language="Bretonnic" value="Hew's Bane" />
+      <Name language="Chimeri" value="Rourken" />
+      <Name language="Cyrodiilic_Col" value="Hew's Bane" />
+      <Name language="Cyrodiilic" value="Hew's Bane" />
+      <Name language="Nord" value="Hew's Bane" />
+      <Name language="Orcish" value="Rourken" />
+      <Name language="Reachmannic" value="Hew's Bane" />
+      <Name language="Nord_Skaal" value="Hew's Bane" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>nimbel</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_nimbel</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Valley of Scars" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>elinhir</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_elinhir</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Deathlands" />
+      <Name language="Orcish" value="Deathlands" />
+      <Name language="Reachmannic" value="Deathlands" />
+      <Name language="Nord_Skaal" value="Deathlands" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>kruzka</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_kruzka</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Kruzka" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>breton</Id>
+    <GameIds>
+      <GameId game="CK2EK">e_breton</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Bretonnic" value="Bretonnic Empire" />
+      <Name language="Orcish" value="Orcish Empire" />
+      <Name language="Reachmannic" value="Greater Reach" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>balfiera</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_balfiera</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Ada-Mantia" />
+      <Name language="Ayleidic" value="Ada-Mantia" />
+      <Name language="Chimeri" value="Ada-Mantia" />
+      <Name language="Falmeri" value="Ada-Mantia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>morrowind</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_morrowind</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Resdayn" />
+      <Name language="Atmoran" value="Dunmereth" />
+      <Name language="Ayleidic" value="Redaynia" />
+      <Name language="Chimeri" value="Resdayn" />
+      <Name language="Nord" value="Dunmereth" />
+      <Name language="Reachmannic" value="Dunmereth" />
+      <Name language="Nord_Skaal" value="Dunmereth" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bodrum</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_bodrum</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Sarpa" value="Uxith" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>northernvvardenfell</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_northernvvardenfell</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Kogoruhn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>ashlands</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_ashlands</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Kogoruhn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>maargan</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_maargan</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Shishi" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>sheogorad</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_sheogorad</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Vas" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>vivec</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_vivec</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Ascadia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>grazelands</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_grazelands</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Hanud" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>grazelands</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_grazelands</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Hanud" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>azurascoast</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_azurascoast</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Odirniran" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>molagamur</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_molagamur</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Mababi" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>zafirbel</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_zafirbel</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Anudnabia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>southernvvardenfell</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_southernvvardenfell</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Zanabi" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>suran</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_suran</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Sulipund" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>pelagiad</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_pelagiad</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Amaya" />
+      <Name language="Ayleidic" value="Amaya" />
+      <Name language="Chimeri" value="Amaya" />
+      <Name language="Orcish" value="Amaya" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bittercoast</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_bittercoast</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Zanabi" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>westgash</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_westgash</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Arvs-Drelen" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>aldruhn</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_aldruhn</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Chimeri" value="Ramimilk" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>ashlands</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_ashlands</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Red Mountain" />
+      <Name language="Bretonnic" value="Red Mountain" />
+      <Name language="Cyrodiilic_Col" value="Red Mountain" />
+      <Name language="Redguardish_Cr" value="Red Mountain" />
+      <Name language="Draugr" value="Sahqo-Strunmah" />
+      <Name language="Redguardish_Fb" value="Red Mountain" />
+      <Name language="Cyrodiilic" value="Red Mountain" />
+      <Name language="Nord" value="Red Mountain" />
+      <Name language="Reachmannic" value="Red Mountain" />
+      <Name language="Nord_Skaal" value="Red Mountain" />
+      <Name language="Yokudan" value="Red Mountain" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>pyandonea</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_pyandonea</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Maormereth" />
+      <Name language="Nord" value="Maormereth" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>aldmeri</Id>
+    <GameIds>
+      <GameId game="CK2EK">e_aldmeri</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Aldmeri Dominion" />
+      <Name language="Ayleidic" value="Ayleidoon Hegemony" />
+      <Name language="Falmeri" value="Falmeri Dominion" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>summerset</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_summerset</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Alinor" />
+      <Name language="Atmoran" value="Altmereth" />
+      <Name language="Ayleidic" value="Alinor" />
+      <Name language="Chimeri" value="Alinor" />
+      <Name language="Redguardish_Cr" value="Sumurset Isle" />
+      <Name language="Redguardish_Fb" value="Sumurset Isle" />
+      <Name language="Nord" value="Altmereth" />
+      <Name language="Orcish" value="Sumurset Isle" />
+      <Name language="Reachmannic" value="Sumerset Isle" />
+      <Name language="Sarpa" value="Sumerset" />
+      <Name language="Nord_Skaal" value="Altmereth" />
+      <Name language="Yokudan" value="Sumurset Isle" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>valenwood</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_valenwood</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Bosmereth" />
+      <Name language="Ayleidic" value="Valetar" />
+      <Name language="Nord" value="Bosmereth" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>emperorsrun</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_emperorsrun</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Velyn" />
+      <Name language="Ayleidic" value="Velyn" />
+      <Name language="Orcish" value="Velyn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>thormar</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_thormar</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Dra'bul" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>ebonro</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_ebonro</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Dra'bul" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>blackpark</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_blackpark</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Bloodtoil" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>arnor</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_arnor</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Hectahame" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eldengrove</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_eldengrove</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Naril Nagaia" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eldengrove</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_eldengrove</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Ilmyris" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eldenroot</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_eldenroot</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Atlye" />
+      <Name language="Orcish" value="Gushnukbur" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eldenroot</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_eldenroot</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Atlye" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>marbruk</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_marbruk</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Orcish" value="Gushnukbur" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>greenheart</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_greenheart</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Pelda" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>briarpatch</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_briarpatch</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Belarata" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>jathsogur</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_jathsogur</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Belarata" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>silvenar</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_silvenar</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Malabal Tor" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>arenthia</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_arenthia</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Senalana" />
+      <Name language="Cyrodiilic_Col" value="South Weald" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>arenthia</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_arenthia</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Senalana" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>southpoint</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_southpoint</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Racuanda" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>southpoint</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_southpoint</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Racuanda" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>eldenroot</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_eldenroot</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Atlye" />
+      <Name language="Orcish" value="Gushnukbur" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>arenthia</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_arenthia</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Senalana" />
+      <Name language="Cyrodiilic_Col" value="The Weald" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>silvenar</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_silvenar</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Malabal Tor" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>southpoint</Id>
+    <GameIds>
+      <GameId game="CK2EK">k_southpoint</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Racuanda" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>leyawiin</Id>
+    <GameIds>
+      <GameId game="CK2EK">d_leyawiin</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Telepe" />
+      <Name language="Ayleidic" value="Telepe" />
+      <Name language="Chimeri" value="Telepe" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>leyawiin</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_leyawiin</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Telepe" />
+      <Name language="Ayleidic" value="Telepe" />
+      <Name language="Chimeri" value="Telepe" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>nomore</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_nomore</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Baalim" />
+      <Name language="Ayleidic" value="Baalim" />
+      <Name language="Chimeri" value="Baalim" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>irony</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_irony</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Bawn" />
+      <Name language="Ayleidic" value="Bawn" />
+      <Name language="Chimeri" value="Bawn" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>panyat</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_panyat</GameId>
+    </GameIds>
+    <Names>
+      <Name language="TangMo" value="manaek" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>conduk</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_conduk</GameId>
+    </GameIds>
+    <Names>
+      <Name language="TangMo" value="khuchang" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>siwa</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_siwa</GameId>
+    </GameIds>
+    <Names>
+      <Name language="TangMo" value="takdung" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>slacal</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_slacal</GameId>
+    </GameIds>
+    <Names>
+      <Name language="TangMo" value="pongtai" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>gipok</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_gipok</GameId>
+    </GameIds>
+    <Names>
+      <Name language="TangMo" value="lamengsao" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>volaya</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_volaya</GameId>
+    </GameIds>
+    <Names>
+      <Name language="TangMo" value="nakhonsuan" />
+    </Names>
+
+
