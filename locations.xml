@@ -300,6 +300,13 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>applewatch</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_applewatch</GameId>
+      <GameId game="CK2EK">c_applewatch</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>argonia</Id>
     <GameIds>
       <GameId game="CK2EK">k_argonia</GameId>
@@ -567,6 +574,19 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>blankenmarch</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_blankenmarch</GameId>
+      <GameId game="CK2EK">c_blankenmarch</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>bleak_mine</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_bleakmine</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>bogat</Id>
     <GameIds>
       <GameId game="CK2EK">b_bogat</GameId>
@@ -760,6 +780,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>ceyatatar</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_ceyatatar</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>ceyhsun</Id>
     <GameIds>
       <GameId game="CK2EK">b_ceyhsun</GameId>
@@ -870,6 +896,20 @@
     <Names>
       <Name language="Orcish" value="Kron" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>cropsford</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_cropsford</GameId>
+      <GameId game="CK2EK">c_cropsford</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>culotte</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_culotte</GameId>
+      <GameId game="CK2EK">c_culotte</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>cyrodiil</Id>
@@ -1032,6 +1072,19 @@
     <Names>
       <Name language="Atmoran" value="Dovahbrjoz" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>drakelowe</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_drakelowe</GameId>
+      <GameId game="CK2EK">c_drakelowe</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>dunbarrow_cove</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_dunbarrowcove</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>durmur</Id>
@@ -1197,6 +1250,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>fardirs_folly</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_fardirsfolly</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>farkhar</Id>
     <GameIds>
       <GameId game="CK2EK">b_farkhar</GameId>
@@ -1347,6 +1406,19 @@
       <Name language="Atmoran" value="Gorzengrav" />
       <Name language="Elvish" value="Gorlatar" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>greyland</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_greyland</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>hackdirt</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_hackdirt</GameId>
+      <GameId game="CK2EK">c_hackdirt</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>haidar</Id>
@@ -2008,6 +2080,18 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>knifepoint_hollow</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_knifepointhollow</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>knotty_bramble</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_knottybramble</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>kopicul</Id>
     <GameIds>
       <GameId game="CK2EK">b_kopicul</GameId>
@@ -2098,6 +2182,13 @@
       <Name language="Atmoran" value="Kutsnskar" />
       <Name language="Elvish" value="Cutesaeum" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>kvatch</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_kvatch</GameId>
+      <GameId game="CK2EK">c_kvatch</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>lakkon</Id>
@@ -2309,6 +2400,25 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>miscarcand</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_miscarcand</GameId>
+      <GameId game="CK2EK">c_miscarcand</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>molag_amur</Id>
+    <GameIds>
+      <GameId game="CK2EK">c_molagamur</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>molag_mar</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_molagmar</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>mujum</Id>
     <GameIds>
       <GameId game="CK2EK">b_mujum</GameId>
@@ -2350,6 +2460,18 @@
       <Name language="Atmoran" value="Musvild" />
       <Name language="Elvish" value="Musasecul" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>nchuleftingth</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_nchuleftingth</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>niryastare</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_niryastare</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>nordic_empire</Id>
@@ -2536,6 +2658,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>portdun_watch</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_portdun_watch</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>potentate</Id>
     <GameIds>
       <GameId game="CK2EK">e_potentate</GameId>
@@ -2673,6 +2801,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>sadrith_mora</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_sadrithmora</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>samahya</Id>
     <GameIds>
       <GameId game="CK2EK">b_samahya</GameId>
@@ -2716,6 +2850,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>saturan</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_saturan</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>selbur</Id>
     <GameIds>
       <GameId game="CK2EK">b_selbur</GameId>
@@ -2724,6 +2864,12 @@
       <Name language="Atmoran" value="Selur" />
       <Name language="Elvish" value="Selabur" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>seyda_neen</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_seydaneen</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>shanliorum</Id>
@@ -3033,6 +3179,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>swampy_cave</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_swampycave</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>tadesa</Id>
     <GameIds>
       <GameId game="CK2EK">b_tadesa</GameId>
@@ -3137,6 +3289,12 @@
       <Name language="Atmoran" value="Tekhalla" />
       <Name language="Elvish" value="Teceyata" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>telasero</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_telasero</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>temamir</Id>
@@ -3332,6 +3490,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>vitharn</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_vitharn</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
     <Id>volaya</Id>
     <GameIds>
       <GameId game="CK2EK">b_volaya</GameId>
@@ -3360,6 +3524,18 @@
       <Name language="Ayleidic" value="Relleianda" />
       <Name language="Cyrodiilic" value="Waterfront" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>waters_edge</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_watersedge</GameId>
+    </GameIds>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>wolverine_hall</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_wolverinehall</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>xianyi</Id>
