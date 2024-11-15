@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfLocationEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LocationEntity>
+    <Id>abah_landing</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_abah_landing</GameId> <!-- Abah's Landing -->
+      <GameId game="CK3EK">c_abah_landing</GameId> <!-- Abah's Landing -->
+    </GameIds>
+    <Names>
+      <Name language="Redguardish" value="Abah's Landing" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>adamantine_tower</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_adamantine</GameId> <!-- Adamantine Tower -->
+      <GameId game="CK3EK">c_adamantine</GameId> <!-- Adamantine Tower -->
+      <GameId game="CK3EK">d_adamantine</GameId> <!-- Adamantine Tower -->
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Adamantine Tower" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>adanakar</Id>
     <GameIds>
       <GameId game="CK2EK">b_adanakar</GameId>
@@ -3746,27 +3767,6 @@
     </GameIds>
     <Names>
       <Name language="Elvish" value="Sul" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>abah_landing</Id>
-    <GameIds>
-      <GameId game="CK3EK">b_abah_landing</GameId> <!-- Abah's Landing -->
-      <GameId game="CK3EK">c_abah_landing</GameId> <!-- Abah's Landing -->
-    </GameIds>
-    <Names>
-      <Name language="Redguardish" value="Abah's Landing" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>adamantine_tower</Id>
-    <GameIds>
-      <GameId game="CK3EK">b_adamantine</GameId> <!-- Adamantine Tower -->
-      <GameId game="CK3EK">c_adamantine</GameId> <!-- Adamantine Tower -->
-      <GameId game="CK3EK">d_adamantine</GameId> <!-- Adamantine Tower -->
-    </GameIds>
-    <Names>
-      <Name language="Cyrodiilic" value="Adamantine Tower" />
     </Names>
   </LocationEntity>
 </ArrayOfLocationEntity>
