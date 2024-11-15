@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfLocationEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LocationEntity>
+   <LocationEntity>
+    <Id>aalto</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_aalto</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Nord" value="Kynesgrove" />
+    </Names>
+  </LocationEntity>
+ <LocationEntity>
     <Id>abah_landing</Id>
     <GameIds>
       <GameId game="CK3EK">b_abah_landing</GameId> <!-- Abah's Landing -->
@@ -19,15 +28,6 @@
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Adamantine Tower" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>aalto</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_aalto</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Nord" value="Kynesgrove" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1312,12 +1312,6 @@
     </GameIds>
   </LocationEntity>
   <LocationEntity>
-    <Id>dunbarrow_cove</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_dunbarrowcove</GameId>
-    </GameIds>
-  </LocationEntity>
-  <LocationEntity>
     <Id>driladan</Id>
     <GameIds>
       <GameId game="CK2EK">b_driladan</GameId>
@@ -1326,6 +1320,12 @@
       <Name language="Bosmeri" value="Driladan" />
       <Name language="Orcish" value="Gushnukbur" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>dunbarrow_cove</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_dunbarrowcove</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>dune</Id>
@@ -1596,26 +1596,6 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>felmarsh</Id>
-    <GameIds>
-      <GameId game="CK2EK">c_felmarsh</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Cyrodiilic" value="Felmarsh" />
-      <Name language="Elvish" value="Gandranen" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>firebrand</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_firebrand</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Cyrodiilic" value="Firebrand" />
-      <Name language="Orcish" value="Old Orsinium" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
     <Id>friendship</Id>
     <GameIds>
       <GameId game="CK2EK">b_friendship</GameId>
@@ -1749,13 +1729,6 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>greyland</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_greyland</GameId> <!-- Greyland -->
-      <GameId game="CK3EK">b_greyland</GameId> <!-- Greyland -->
-    </GameIds>
-  </LocationEntity>
-  <LocationEntity>
     <Id>greenheart</Id>
     <GameIds>
       <GameId game="CK2EK">b_greenheart</GameId>
@@ -1765,6 +1738,13 @@
       <Name language="Ayleidic" value="Pelda Tarn" />
       <Name language="Bosmeri" value="Greenheart" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>greyland</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_greyland</GameId> <!-- Greyland -->
+      <GameId game="CK3EK">b_greyland</GameId> <!-- Greyland -->
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>greymist</Id>
@@ -1777,12 +1757,14 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>hackdirt</Id>
+    <Id>haalfingar</Id>
     <GameIds>
-      <GameId game="CK2EK">b_hackdirt</GameId> <!-- Hackdirt -->
-      <GameId game="CK2EK">c_hackdirt</GameId> <!-- Hackdirt -->
-      <GameId game="CK3EK">b_hackdirt</GameId> <!-- Hackdirt -->
+      <GameId game="CK2EK">b_haalfingar</GameId>
     </GameIds>
+    <Names>
+      <Name language="Nord" value="Haalfingar" />
+      <Name language="Reachmannic" value="Hag's End" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>haalfingar_county</Id>
@@ -1797,14 +1779,12 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>haalfingar</Id>
+    <Id>hackdirt</Id>
     <GameIds>
-      <GameId game="CK2EK">b_haalfingar</GameId>
+      <GameId game="CK2EK">b_hackdirt</GameId> <!-- Hackdirt -->
+      <GameId game="CK2EK">c_hackdirt</GameId> <!-- Hackdirt -->
+      <GameId game="CK3EK">b_hackdirt</GameId> <!-- Hackdirt -->
     </GameIds>
-    <Names>
-      <Name language="Nord" value="Haalfingar" />
-      <Name language="Reachmannic" value="Hag's End" />
-    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>haidar</Id>
@@ -2151,12 +2131,6 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>jodes_light</Id>
-    <Names>
-      <Name language="Taagra" value="Ja'zennji Siir" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
     <Id>kadiregli</Id>
     <GameIds>
       <GameId game="CK2EK">b_kadiregli</GameId>
@@ -2363,6 +2337,16 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>kathgran</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_kathgran</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Bretonnic" value="Kathgran" />
+      <Name language="Orcish" value="Shatul's Range" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>kathgran_county</Id>
     <GameIds>
       <GameId game="CK2EK">c_kathgran</GameId>
@@ -2372,16 +2356,6 @@
     </FallbackLocations>
     <Names>
       <Name language="Orcish" value="Shatul" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>kathgran</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_kathgran</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Bretonnic" value="Kathgran" />
-      <Name language="Orcish" value="Shatul's Range" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -2973,12 +2947,6 @@
     <GameIds>
       <GameId game="CK2EK">b_nchuleftingth</GameId>
     </GameIds>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>nirn</Id>
-    <Names>
-      <Name language="Taagra" value="Nirni" />
-    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>niryastare</Id>
@@ -4219,12 +4187,6 @@
     </GameIds>
   </LocationEntity>
   <LocationEntity>
-    <Id>wolverine_hall</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_wolverinehall</GameId>
-    </GameIds>
-  </LocationEntity>
-  <LocationEntity>
     <Id>whiterun</Id>
     <GameIds>
       <GameId game="CK2EK">c_whiterun</GameId>
@@ -4235,6 +4197,12 @@
       <Name language="Atmoran" value="Jorrvaskr" />
       <Name language="Nord" value="Whiterun" />
     </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>wolverine_hall</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_wolverinehall</GameId>
+    </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>woodhearth</Id>
