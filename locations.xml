@@ -204,6 +204,16 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>al_nashukiul_el</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_al_nashukiul_el</GameId> <!-- Al-Nashukiul-El -->
+      <GameId game="CK3EK">c_al_nashukiul_el</GameId> <!-- Al-Nashukiul-El -->
+    </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Arlis" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>alabaster</Id>
     <GameIds>
       <GameId game="CK2EK">b_alabaster</GameId>
@@ -212,16 +222,6 @@
     </GameIds>
     <Names>
       <Name language="Taagra" value="Al'basti" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>al_nashukiul_el</Id>
-    <GameIds>
-      <GameId game="CK3EK">b_al_nashukiul_el</GameId> <!-- Al-Nashukiul-El -->
-      <GameId game="CK3EK">c_al_nashukiul_el</GameId> <!-- Al-Nashukiul-El -->
-    </GameIds>
-    <Names>
-      <Name language="Ayleidic" value="Arlis" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -995,6 +995,17 @@
     <Names>
       <Name language="Atmoran" value="Kynestad" />
       <Name language="Elvish" value="Ceysaniim" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>chasepoint</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_chasepoint</GameId> <!-- Chasepoint -->
+      <GameId game="CK3EK">c_chasepoint</GameId> <!-- Chasepoint -->
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Chasepoint" />
+      <Name language="Yespest" value="Ruvflurei" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1816,6 +1827,16 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>grassmoor</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_grassmoor</GameId> <!-- Grassmoor -->
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Grassmoor" />
+      <Name language="Yespest" value="Anairune" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>greenheart</Id>
     <GameIds>
       <GameId game="CK2EK">b_greenheart</GameId>
@@ -1824,16 +1845,6 @@
     <Names>
       <Name language="Ayleidic" value="Pelda Tarn" />
       <Name language="Bosmeri" value="Greenheart" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>grassmoor</Id>
-    <GameIds>
-      <GameId game="CK3EK">b_grassmoor</GameId> <!-- Grassmoor -->
-    </GameIds>
-    <Names>
-      <Name language="Cyrodiilic" value="Grassmoor" />
-      <Name language="Yespest" value="Anairune" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1925,6 +1936,17 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>hearthshield</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_hearthshield</GameId> <!-- Hearthshield -->
+      <GameId game="CK3EK">c_hearthshield</GameId> <!-- Hearthshield -->
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Hearthshield" />
+      <Name language="Yespest" value="Lorkhva" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>heartlands</Id>
     <GameIds>
       <GameId game="CK2EK">k_heartlands</GameId>
@@ -1937,6 +1959,15 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>histen</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_histen</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Yespest" value="Venalava" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>hrotanda</Id>
     <GameIds>
       <GameId game="CK2EK">b_hrotanda</GameId>
@@ -1946,26 +1977,6 @@
       <Name language="Altmeri" value="Hrotanda" />
       <Name language="Ayleidic" value="Hrotanda" />
       <Name language="Chimeri" value="Hrotanda" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>hearthshield</Id>
-    <GameIds>
-      <GameId game="CK3EK">b_hearthshield</GameId> <!-- Hearthshield -->
-      <GameId game="CK3EK">c_hearthshield</GameId> <!-- Hearthshield -->
-    </GameIds>
-    <Names>
-      <Name language="Cyrodiilic" value="Hearthshield" />
-      <Name language="Yespest" value="Lorkhva" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>histen</Id>
-    <GameIds>
-      <GameId game="CK3EK">b_histen</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Yespest" value="Venalava" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -2757,7 +2768,6 @@
       <GameId game="CK2EK">b_kvatch</GameId> <!-- Kvatch -->
       <GameId game="CK2EK">c_kvatch</GameId> <!-- Kvatch -->
       <GameId game="CK3EK">b_kvatch</GameId> <!-- Kvatch -->
-      <GameId game="CK3EK">b_kvatch_keep</GameId> <!-- Kvatch -->
       <GameId game="CK3EK">c_kvatch</GameId> <!-- Kvatch -->
       <GameId game="CK3EK">d_kvatch</GameId> <!-- Kvatch -->
       <GameId game="CK3EK">k_kvatch</GameId> <!-- Kvatch -->
@@ -4728,17 +4738,6 @@
     </GameIds>
     <Names>
       <Name language="Elvish" value="Sul" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>chasepoint</Id>
-    <GameIds>
-      <GameId game="CK3EK">b_chasepoint</GameId> <!-- Chasepoint -->
-      <GameId game="CK3EK">c_chasepoint</GameId> <!-- Chasepoint -->
-    </GameIds>
-    <Names>
-      <Name language="Cyrodiilic" value="Chasepoint" />
-      <Name language="Yespest" value="Ruvflurei" />
     </Names>
   </LocationEntity>
 </ArrayOfLocationEntity>
