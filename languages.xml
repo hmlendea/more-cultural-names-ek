@@ -63,6 +63,15 @@
     </FallbackLanguages>
   </Language>
   <Language>
+    <Id>Bosmeri</Id>
+    <GameIds>
+      <GameId game="CK2EK">bosmer</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Elvish</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
     <Id>Bretonnic</Id>
     <GameIds>
       <GameId game="CK2EK">breton</GameId>
@@ -99,6 +108,9 @@
   </Language>
   <Language>
     <Id>Dunmeri</Id>
+    <GameIds>
+      <GameId game="CK2EK">dunmer</GameId>
+    </GameIds>
     <FallbackLanguages>
       <LanguageId>Chimeri</LanguageId>
       <LanguageId>Elvish</LanguageId>
@@ -217,6 +229,13 @@
     <Id>Sload</Id>
     <GameIds>
       <GameId game="CK2EK">sload</GameId>
+    </GameIds>
+  </Language>
+  <Language>
+    <Id>Taagra</Id>
+    <GameIds>
+      <GameId game="CK2EK">anequinan</GameId>
+      <GameId game="CK2EK">pellitinian</GameId>
     </GameIds>
   </Language>
   <Language>

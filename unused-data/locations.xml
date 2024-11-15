@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfLocationEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LocationEntity>
+    <Id>jodes_light</Id>
+    <Names>
+      <Name language="Taagra" value="Ja'zennji Siir" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>nirn</Id>
+    <Names>
+      <Name language="Taagra" value="Nirni" />
+    </Names>
+  </LocationEntity>
 </ArrayOfLocationEntity>
