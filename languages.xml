@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Language>
-    <Id>Akaviri_Common</Id>
-    <GameIds>
-      <GameId game="CK2EK">akaviri</GameId>
-    </GameIds>
-  </Language>
-  <Language>
     <Id>Akaviri</Id>
     <FallbackLanguages>
       <LanguageId>Akaviri_Common</LanguageId>
     </FallbackLanguages>
   </Language>
   <Language>
-    <Id>Atmoran</Id>
+    <Id>Akaviri_Common</Id>
     <GameIds>
-      <GameId game="CK2EK">atmoran</GameId>
+      <GameId game="CK2EK">akaviri</GameId>
     </GameIds>
-    <FallbackLanguages>
-      <LanguageId>Nord</LanguageId>
-      <LanguageId>Cyrodiilic</LanguageId>
-    </FallbackLanguages>
   </Language>
   <Language>
     <Id>Aldmeri</Id>
@@ -39,6 +29,16 @@
     <FallbackLanguages>
       <LanguageId>Elvish</LanguageId>
       <LanguageId>Aldmeri</LanguageId>
+    </FallbackLanguages>
+  </Language>
+  <Language>
+    <Id>Atmoran</Id>
+    <GameIds>
+      <GameId game="CK2EK">atmoran</GameId>
+    </GameIds>
+    <FallbackLanguages>
+      <LanguageId>Nord</LanguageId>
+      <LanguageId>Cyrodiilic</LanguageId>
     </FallbackLanguages>
   </Language>
   <Language>
@@ -156,6 +156,12 @@
     </FallbackLanguages>
   </Language>
   <Language>
+    <Id>Reachmannic</Id>
+    <GameIds>
+      <GameId game="CK2EK">reachmen</GameId>
+    </GameIds>
+  </Language>
+  <Language>
     <Id>Redguardish</Id>
     <GameIds>
       <GameId game="CK2EK">crown</GameId>
@@ -165,12 +171,6 @@
       <LanguageId>Cyrodiilic</LanguageId>
       <LanguageId>Yokudan</LanguageId>
     </FallbackLanguages>
-  </Language>
-  <Language>
-    <Id>Reachmannic</Id>
-    <GameIds>
-      <GameId game="CK2EK">reachmen</GameId>
-    </GameIds>
   </Language>
   <Language>
     <Id>Sarpa</Id>
