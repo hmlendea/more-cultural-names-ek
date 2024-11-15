@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfLocationEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <LocationEntity>
+    <Id>abah_landing</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_abah_landing</GameId> <!-- Abah's Landing -->
+      <GameId game="CK3EK">c_abah_landing</GameId> <!-- Abah's Landing -->
+    </GameIds>
+    <Names>
+      <Name language="Redguardish" value="Abah's Landing" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>adamantine_tower</Id>
+    <GameIds>
+      <GameId game="CK3EK">b_adamantine</GameId> <!-- Adamantine Tower -->
+      <GameId game="CK3EK">c_adamantine</GameId> <!-- Adamantine Tower -->
+      <GameId game="CK3EK">d_adamantine</GameId> <!-- Adamantine Tower -->
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Adamantine Tower" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>adanakar</Id>
     <GameIds>
       <GameId game="CK2EK">b_adanakar</GameId>
@@ -302,9 +323,14 @@
   <LocationEntity>
     <Id>applewatch</Id>
     <GameIds>
-      <GameId game="CK2EK">b_applewatch</GameId>
-      <GameId game="CK2EK">c_applewatch</GameId>
+      <GameId game="CK2EK">b_applewatch</GameId> <!-- Applewatch -->
+      <GameId game="CK2EK">c_applewatch</GameId> <!-- Applewatch -->
+      <GameId game="CK3EK">b_applewatch</GameId> <!-- Applewatch -->
+      <GameId game="CK3EK">c_applewatch</GameId> <!-- Applewatch -->
     </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Applewatch" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>argonia</Id>
@@ -476,7 +502,11 @@
   <LocationEntity>
     <Id>betony</Id>
     <GameIds>
-      <GameId game="CK2EK">b_betony</GameId>
+      <GameId game="CK2EK">b_betony</GameId> <!-- Betony -->
+      <GameId game="CK3EK">b_betony</GameId> <!-- Betony -->
+      <GameId game="CK3EK">c_betony</GameId> <!-- Betony -->
+      <GameId game="CK3EK">d_betony</GameId> <!-- Betony -->
+      <GameId game="CK3EK">k_betony</GameId> <!-- Betony -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Betony" />
@@ -566,7 +596,8 @@
   <LocationEntity>
     <Id>black_maw</Id>
     <GameIds>
-      <GameId game="CK2EK">b_black_maw</GameId>
+      <GameId game="CK2EK">b_black_maw</GameId> <!-- Black Maw -->
+      <GameId game="CK3EK">b_black_maw</GameId> <!-- Black Maw -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Black Maw" />
@@ -581,9 +612,10 @@
     </GameIds>
   </LocationEntity>
   <LocationEntity>
-    <Id>bleak_mine</Id>
+    <Id>bleakmine</Id>
     <GameIds>
-      <GameId game="CK2EK">b_bleakmine</GameId>
+      <GameId game="CK2EK">b_bleakmine</GameId> <!-- Bleakmine -->
+      <GameId game="CK3EK">b_bleakmine</GameId> <!-- Bleakmine -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
@@ -640,7 +672,9 @@
   <LocationEntity>
     <Id>bonerock</Id>
     <GameIds>
-      <GameId game="CK2EK">b_bonerock</GameId>
+      <GameId game="CK2EK">b_bonerock</GameId> <!-- Bonerock -->
+      <GameId game="CK3EK">b_bonerock</GameId> <!-- Bonerock -->
+      <GameId game="CK3EK">c_bonerock</GameId> <!-- Bonerock -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Bonerock" />
@@ -782,8 +816,13 @@
   <LocationEntity>
     <Id>ceyatatar</Id>
     <GameIds>
-      <GameId game="CK2EK">b_ceyatatar</GameId>
+      <GameId game="CK2EK">b_ceyatatar</GameId> <!-- Ceyatatar -->
+      <GameId game="CK3EK">b_ceyatatar</GameId> <!-- Ceyatatar -->
+      <GameId game="CK3EK">c_ceyatatar</GameId> <!-- Ceyatatar -->
     </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Ceyatatar" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>ceyhsun</Id>
@@ -808,7 +847,12 @@
   <LocationEntity>
     <Id>cheydinhal</Id>
     <GameIds>
-      <GameId game="CK2EK">b_cheydinhal</GameId>
+      <GameId game="CK2EK">b_cheydinhal</GameId> <!-- Cheydinhal -->
+      <GameId game="CK3EK">b_cheydinhal</GameId> <!-- Cheydinhal -->
+      <GameId game="CK3EK">b_cheydinhal_castle</GameId> <!-- Cheydinhal -->
+      <GameId game="CK3EK">c_cheydinhal</GameId> <!-- Cheydinhal -->
+      <GameId game="CK3EK">d_cheydinhal</GameId> <!-- Cheydinhal -->
+      <GameId game="CK3EK">k_cheydinhal</GameId> <!-- Cheydinhal -->
     </GameIds>
     <Names>
       <Name language="Atmoran" value="Cheydin's Hall" />
@@ -900,21 +944,30 @@
   <LocationEntity>
     <Id>cropsford</Id>
     <GameIds>
-      <GameId game="CK2EK">b_cropsford</GameId>
-      <GameId game="CK2EK">c_cropsford</GameId>
+      <GameId game="CK2EK">b_cropsford</GameId> <!-- Cropsford -->
+      <GameId game="CK2EK">c_cropsford</GameId> <!-- Cropsford -->
+      <GameId game="CK3EK">b_cropsford</GameId> <!-- Cropsford -->
+      <GameId game="CK3EK">c_cropsford</GameId> <!-- Cropsford -->
+      <GameId game="CK3EK">d_cropsford</GameId> <!-- Cropsford -->
     </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Cropsford" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>culotte</Id>
     <GameIds>
-      <GameId game="CK2EK">b_culotte</GameId>
-      <GameId game="CK2EK">c_culotte</GameId>
+      <GameId game="CK2EK">b_culotte</GameId> <!-- Culotte -->
+      <GameId game="CK2EK">c_culotte</GameId> <!-- Culotte -->
+      <GameId game="CK3EK">b_culotte</GameId> <!-- Culotte -->
+      <GameId game="CK3EK">c_culotte</GameId> <!-- Culotte -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>cyrodiil</Id>
     <GameIds>
-      <GameId game="CK2EK">k_cyrodiil</GameId>
+      <GameId game="CK2EK">k_cyrodiil</GameId> <!-- Cyrodiil -->
+      <GameId game="CK3EK">e_cyrodiil</GameId> <!-- Cyrodiil -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Cyrodiil" />
@@ -1064,20 +1117,28 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>dragonbridge</Id>
+    <Id>dragon_bridge</Id>
     <GameIds>
-      <GameId game="CK2EK">b_dragonbridge</GameId>
-      <GameId game="CK2EK">c_dragonbridge</GameId>
+      <GameId game="CK2EK">b_dragonbridge</GameId> <!-- Dragon Bridge -->
+      <GameId game="CK2EK">c_dragonbridge</GameId> <!-- Dragon Bridge -->
+      <GameId game="CK3EK">b_dragon_bridge</GameId> <!-- Dragon Bridge -->
+      <GameId game="CK3EK">c_dragon_bridge</GameId> <!-- Dragon Bridge -->
+      <GameId game="CK3EK">d_dragon_bridge</GameId> <!-- Dragon Bridge -->
     </GameIds>
     <Names>
       <Name language="Atmoran" value="Dovahbrjoz" />
+      <Name language="Cyrodiilic" value="Dragon Bridge" />
+      <Name language="Nord" value="Dragon Bridge" />
     </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>drakelowe</Id>
     <GameIds>
-      <GameId game="CK2EK">b_drakelowe</GameId>
-      <GameId game="CK2EK">c_drakelowe</GameId>
+      <GameId game="CK2EK">b_drakelowe</GameId> <!-- Drakelowe -->
+      <GameId game="CK2EK">c_drakelowe</GameId> <!-- Drakelowe -->
+      <GameId game="CK3EK">b_drakelowe</GameId> <!-- Drakelowe -->
+      <GameId game="CK3EK">c_drakelowe</GameId> <!-- Drakelowe -->
+      <GameId game="CK3EK">d_drakelowe</GameId> <!-- Drakelowe -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
@@ -1241,10 +1302,15 @@
   <LocationEntity>
     <Id>falkreath</Id>
     <GameIds>
-      <GameId game="CK2EK">b_falkreath</GameId>
+      <GameId game="CK2EK">b_falkreath</GameId> <!-- Falkreath -->
+      <GameId game="CK3EK">b_falkreath</GameId> <!-- Falkreath -->
+      <GameId game="CK3EK">c_falkreath</GameId> <!-- Falkreath -->
+      <GameId game="CK3EK">d_falkreath</GameId> <!-- Falkreath -->
+      <GameId game="CK3EK">k_falkreath</GameId> <!-- Falkreath -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Falkreath" />
+      <Name language="Nord" value="Falkreath" />
       <Name language="Orcish" value="Falcrenth" />
       <Name language="Reachmannic" value="Falcrenth" />
     </Names>
@@ -1279,7 +1345,11 @@
   <LocationEntity>
     <Id>farrun</Id>
     <GameIds>
-      <GameId game="CK2EK">b_farrun</GameId>
+      <GameId game="CK2EK">b_farrun</GameId> <!-- Farrun -->
+      <GameId game="CK3EK">b_fharun</GameId> <!-- Farrun -->
+      <GameId game="CK3EK">c_fharun</GameId> <!-- Farrun -->
+      <GameId game="CK3EK">d_fharun</GameId> <!-- Farrun -->
+      <GameId game="CK3EK">k_fharun</GameId> <!-- Farrun -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Farrun" />
@@ -1289,7 +1359,8 @@
   <LocationEntity>
     <Id>felmarsh</Id>
     <GameIds>
-      <GameId game="CK2EK">c_felmarsh</GameId>
+      <GameId game="CK2EK">c_felmarsh</GameId> <!-- Felmarsh -->
+      <GameId game="CK3EK">d_felmarsh</GameId> <!-- Felmarsh -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Felmarsh" />
@@ -1299,7 +1370,9 @@
   <LocationEntity>
     <Id>firebrand</Id>
     <GameIds>
-      <GameId game="CK2EK">b_firebrand</GameId>
+      <GameId game="CK2EK">b_firebrand</GameId> <!-- Firebrand -->
+      <GameId game="CK3EK">b_firebrand</GameId> <!-- Tusktrutz -->
+      <GameId game="CK3EK">c_firebrand</GameId> <!-- Tusktrutz -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Firebrand" />
@@ -1410,14 +1483,16 @@
   <LocationEntity>
     <Id>greyland</Id>
     <GameIds>
-      <GameId game="CK2EK">b_greyland</GameId>
+      <GameId game="CK2EK">b_greyland</GameId> <!-- Greyland -->
+      <GameId game="CK3EK">b_greyland</GameId> <!-- Greyland -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>hackdirt</Id>
     <GameIds>
-      <GameId game="CK2EK">b_hackdirt</GameId>
-      <GameId game="CK2EK">c_hackdirt</GameId>
+      <GameId game="CK2EK">b_hackdirt</GameId> <!-- Hackdirt -->
+      <GameId game="CK2EK">c_hackdirt</GameId> <!-- Hackdirt -->
+      <GameId game="CK3EK">b_hackdirt</GameId> <!-- Hackdirt -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
@@ -2082,7 +2157,8 @@
   <LocationEntity>
     <Id>knifepoint_hollow</Id>
     <GameIds>
-      <GameId game="CK2EK">b_knifepointhollow</GameId>
+      <GameId game="CK2EK">b_knifepointhollow</GameId> <!-- Knifepoint Hollow -->
+      <GameId game="CK3EK">b_knifepoint_hollow</GameId> <!-- Knifepoint Hollow -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
@@ -2186,9 +2262,17 @@
   <LocationEntity>
     <Id>kvatch</Id>
     <GameIds>
-      <GameId game="CK2EK">b_kvatch</GameId>
-      <GameId game="CK2EK">c_kvatch</GameId>
+      <GameId game="CK2EK">b_kvatch</GameId> <!-- Kvatch -->
+      <GameId game="CK2EK">c_kvatch</GameId> <!-- Kvatch -->
+      <GameId game="CK3EK">b_kvatch</GameId> <!-- Kvatch -->
+      <GameId game="CK3EK">b_kvatch_keep</GameId> <!-- Kvatch -->
+      <GameId game="CK3EK">c_kvatch</GameId> <!-- Kvatch -->
+      <GameId game="CK3EK">d_kvatch</GameId> <!-- Kvatch -->
+      <GameId game="CK3EK">k_kvatch</GameId> <!-- Kvatch -->
     </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Kvatch" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>lakkon</Id>
@@ -2403,20 +2487,28 @@
   <LocationEntity>
     <Id>miscarcand</Id>
     <GameIds>
-      <GameId game="CK2EK">b_miscarcand</GameId>
-      <GameId game="CK2EK">c_miscarcand</GameId>
+      <GameId game="CK2EK">b_miscarcand</GameId> <!-- Miscarcand -->
+      <GameId game="CK2EK">c_miscarcand</GameId> <!-- Miscarcand -->
+      <GameId game="CK3EK">b_miscarcand</GameId> <!-- Miscarcand -->
     </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Miscarcand" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>molag_amur</Id>
     <GameIds>
-      <GameId game="CK2EK">c_molagamur</GameId>
+      <GameId game="CK2EK">c_molagamur</GameId> <!-- Molag Amur -->
+      <GameId game="CK3EK">d_molag_amur</GameId> <!-- Molag Amur -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
     <Id>molag_mar</Id>
     <GameIds>
-      <GameId game="CK2EK">b_molagmar</GameId>
+      <GameId game="CK2EK">b_molagmar</GameId> <!-- Molag Mar -->
+      <GameId game="CK3EK">b_molag_mar</GameId> <!-- Molag Mar -->
+      <GameId game="CK3EK">c_molag_mar</GameId> <!-- Molag Mar -->
+      <GameId game="CK3EK">d_molag_mar</GameId> <!-- Molag Mar -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
@@ -2471,8 +2563,13 @@
   <LocationEntity>
     <Id>niryastare</Id>
     <GameIds>
-      <GameId game="CK2EK">b_niryastare</GameId>
+      <GameId game="CK2EK">b_niryastare</GameId> <!-- Niryastare -->
+      <GameId game="CK3EK">b_niryastare</GameId> <!-- Niryastare -->
+      <GameId game="CK3EK">c_niryastare</GameId> <!-- Niryastare -->
     </GameIds>
+    <Names>
+      <Name language="Ayleidic" value="Niryastare" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>nordic_empire</Id>
@@ -2661,7 +2758,8 @@
   <LocationEntity>
     <Id>portdun_watch</Id>
     <GameIds>
-      <GameId game="CK2EK">b_portdun_watch</GameId>
+      <GameId game="CK2EK">b_portdun_watch</GameId> <!-- Portdun Watch -->
+      <GameId game="CK3EK">b_portdun</GameId> <!-- Portdun Watch -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
@@ -2770,8 +2868,11 @@
   <LocationEntity>
     <Id>ravenscar</Id>
     <GameIds>
-      <GameId game="CK2EK">b_ravenscar</GameId>
-      <GameId game="CK2EK">c_ravenscar</GameId>
+      <GameId game="CK2EK">b_ravenscar</GameId> <!-- Ravenscar -->
+      <GameId game="CK2EK">c_ravenscar</GameId> <!-- Ravenscar -->
+      <GameId game="CK3EK">b_ravenscar</GameId> <!-- Ravenscar -->
+      <GameId game="CK3EK">c_ravenscar</GameId> <!-- Ravenscar -->
+      <GameId game="CK3EK">d_ravenscar</GameId> <!-- Ravenscar -->
     </GameIds>
     <Names>
       <Name language="Atmoran" value="Hyreifansjear" />
@@ -2782,10 +2883,13 @@
   <LocationEntity>
     <Id>rockguard</Id>
     <GameIds>
-      <GameId game="CK2EK">b_rockguard</GameId>
-      <GameId game="CK2EK">c_rockguard</GameId>
+      <GameId game="CK2EK">b_rockguard</GameId> <!-- Rockguard -->
+      <GameId game="CK2EK">c_rockguard</GameId> <!-- Rockguard -->
+      <GameId game="CK3EK">b_rockguard</GameId> <!-- Rockguard -->
+      <GameId game="CK3EK">c_rockguard</GameId> <!-- Rockguard -->
     </GameIds>
     <Names>
+      <Name language="Cyrodiilic" value="Rockguard" />
       <Name language="Elvish" value="Loriasel" />
     </Names>
   </LocationEntity>
@@ -2804,8 +2908,14 @@
   <LocationEntity>
     <Id>sadrith_mora</Id>
     <GameIds>
-      <GameId game="CK2EK">b_sadrithmora</GameId>
+      <GameId game="CK2EK">b_sadrithmora</GameId> <!-- Sadrith Mora -->
+      <GameId game="CK3EK">b_sadrith_mora</GameId> <!-- Sadrith Mora -->
+      <GameId game="CK3EK">c_sadrith_mora</GameId> <!-- Sadrith Mora -->
+      <GameId game="CK3EK">d_sadrith_mora</GameId> <!-- Sadrith Mora -->
     </GameIds>
+    <Names>
+      <Name language="Dunmeri" value="Sadrith Mora" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>samahya</Id>
@@ -2843,7 +2953,10 @@
   <LocationEntity>
     <Id>sancre_tor</Id>
     <GameIds>
-      <GameId game="CK2EK">b_sancretor</GameId>
+      <GameId game="CK2EK">b_sancretor</GameId> <!-- Sancre Tor -->
+      <GameId game="CK3EK">b_sancre_tor</GameId> <!-- Sancre Tor -->
+      <GameId game="CK3EK">c_sancre_tor</GameId> <!-- Sancre Tor -->
+      <GameId game="CK3EK">d_sancre_tor</GameId> <!-- Sancre Tor -->
     </GameIds>
     <Names>
       <Name language="Bretonnic" value="Golden Hill" />
@@ -2869,8 +2982,13 @@
   <LocationEntity>
     <Id>seyda_neen</Id>
     <GameIds>
-      <GameId game="CK2EK">b_seydaneen</GameId>
+      <GameId game="CK2EK">b_seydaneen</GameId> <!-- Seyda Neen -->
+      <GameId game="CK3EK">b_seyda_neen</GameId> <!-- Seyda Neen -->
+      <GameId game="CK3EK">c_seyda_neen</GameId> <!-- Seyda Neen -->
     </GameIds>
+    <Names>
+      <Name language="Dunmeri" value="Seyda Neen" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>shanliorum</Id>
@@ -3060,7 +3178,8 @@
   <LocationEntity>
     <Id>skyspire</Id>
     <GameIds>
-      <GameId game="CK2EK">b_skyspire</GameId>
+      <GameId game="CK2EK">b_skyspire</GameId> <!-- Skyspire -->
+      <GameId game="CK3EK">b_skyspire</GameId> <!-- Skyspire -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Skyspire" />
@@ -3121,9 +3240,12 @@
   <LocationEntity>
     <Id>stormhold</Id>
     <GameIds>
-      <GameId game="CK2EK">b_stormhold</GameId>
-      <GameId game="CK2EK">c_stormhold</GameId>
-      <GameId game="CK2EK">d_stormhold</GameId>
+      <GameId game="CK2EK">b_stormhold</GameId> <!-- Stormhold -->
+      <GameId game="CK2EK">c_stormhold</GameId> <!-- Stormhold -->
+      <GameId game="CK2EK">d_stormhold</GameId> <!-- Stormhold -->
+      <GameId game="CK3EK">b_stormhold</GameId> <!-- Stormhold -->
+      <GameId game="CK3EK">c_stormhold</GameId> <!-- Stormhold -->
+      <GameId game="CK3EK">d_stormhold</GameId> <!-- Stormhold -->
     </GameIds>
     <Names>
       <Name language="Cyrodiilic" value="Stormhold" />
@@ -3219,7 +3341,8 @@
   <LocationEntity>
     <Id>tamriel</Id>
     <GameIds>
-      <GameId game="CK2EK">e_tamriel</GameId>
+      <GameId game="CK2EK">e_tamriel</GameId> <!-- Tamriel -->
+      <GameId game="CK3EK">e_tamriel</GameId> <!-- Tamriel -->
     </GameIds>
     <Names>
       <Name language="Atmoran" value="Taazokaan" />
@@ -3294,7 +3417,9 @@
   <LocationEntity>
     <Id>telasero</Id>
     <GameIds>
-      <GameId game="CK2EK">b_telasero</GameId>
+      <GameId game="CK2EK">b_telasero</GameId> <!-- Telasero -->
+      <GameId game="CK3EK">b_telasero</GameId> <!-- Telasero -->
+      <GameId game="CK3EK">c_telasero</GameId> <!-- Telasero -->
     </GameIds>
   </LocationEntity>
   <LocationEntity>
@@ -3519,7 +3644,9 @@
   <LocationEntity>
     <Id>waterfront</Id>
     <GameIds>
-      <GameId game="CK2EK">b_waterfront</GameId>
+      <GameId game="CK2EK">b_waterfront</GameId> <!-- Waterfront -->
+      <GameId game="CK3EK">b_waterfront</GameId> <!-- Waterfront -->
+      <GameId game="CK3EK">c_rumare</GameId> <!-- Waterfront -->
     </GameIds>
     <Names>
       <Name language="Ayleidic" value="Relleianda" />
@@ -3635,7 +3762,8 @@
   <LocationEntity>
     <Id>zuuk</Id>
     <GameIds>
-      <GameId game="CK2EK">b_zuuk</GameId>
+      <GameId game="CK2EK">b_zuuk</GameId> <!-- Zuuk -->
+      <GameId game="CK3EK">b_zuuk</GameId> <!-- Zuuk -->
     </GameIds>
     <Names>
       <Name language="Elvish" value="Sul" />
