@@ -758,6 +758,16 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>castle_joy</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_castlejoy</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Cyrodiilic" value="Castle Joy" />
+      <Name language="Orcish" value="Scarp Keep" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>castle_joy_county</Id>
     <GameIds>
       <GameId game="CK2EK">c_castlejoy</GameId>
@@ -767,16 +777,6 @@
     </FallbackLocations>
     <Names>
       <Name language="Orcish" value="Scarp" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>castle_joy</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_castlejoy</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Cyrodiilic" value="Castle Joy" />
-      <Name language="Orcish" value="Scarp Keep" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1287,16 +1287,6 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
-    <Id>foclang</Id>
-    <GameIds>
-      <GameId game="CK2EK">b_foclang</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Atmoran" value="Falkstaang" />
-      <Name language="Elvish" value="Folwend" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
     <Id>felmarsh</Id>
     <GameIds>
       <GameId game="CK2EK">c_felmarsh</GameId>
@@ -1314,6 +1304,16 @@
     <Names>
       <Name language="Cyrodiilic" value="Firebrand" />
       <Name language="Orcish" value="Old Orsinium" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
+    <Id>foclang</Id>
+    <GameIds>
+      <GameId game="CK2EK">b_foclang</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Atmoran" value="Falkstaang" />
+      <Name language="Elvish" value="Folwend" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1800,6 +1800,19 @@
     </Names>
   </LocationEntity>
   <LocationEntity>
+    <Id>kamal</Id>
+    <GameIds>
+      <GameId game="CK2EK">e_kamal</GameId>
+    </GameIds>
+    <Names>
+      <Name language="Elvish" value="Camaleth" />
+      <Name language="PoTun" value="Jmtar Po' Tun" />
+      <Name language="Quey" value="Neverending Winter" />
+      <Name language="TangMo" value="Ogo Suu No" />
+      <Name language="Tsaesci" value="Tsichi" />
+    </Names>
+  </LocationEntity>
+  <LocationEntity>
     <Id>kamal_mirvuk</Id>
     <GameIds>
       <GameId game="CK2EK">k_kamaleimirvuk</GameId>
@@ -1811,19 +1824,6 @@
       <Name language="PoTun" value="Joom Po' Tun" />
       <Name language="TangMo" value="Ogo Mi No" />
       <Name language="Tsaesci" value="Tsichou-Jo" />
-    </Names>
-  </LocationEntity>
-  <LocationEntity>
-    <Id>kamal</Id>
-    <GameIds>
-      <GameId game="CK2EK">e_kamal</GameId>
-    </GameIds>
-    <Names>
-      <Name language="Elvish" value="Camaleth" />
-      <Name language="PoTun" value="Jmtar Po' Tun" />
-      <Name language="Quey" value="Neverending Winter" />
-      <Name language="TangMo" value="Ogo Suu No" />
-      <Name language="Tsaesci" value="Tsichi" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -2379,7 +2379,8 @@
     <Names>
       <Name language="Elvish" value="Matalond" />
     </Names>
-  </LocationEntity>  <LocationEntity>
+  </LocationEntity>
+  <LocationEntity>
     <Id>mehekbaz</Id>
     <GameIds>
       <GameId game="CK2EK">k_mehekbaz</GameId>

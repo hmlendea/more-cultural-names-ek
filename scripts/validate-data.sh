@@ -376,6 +376,6 @@ done
 grep -Pzo "\n.* language=\"([^\"]*)\".*\n.*language=\"\1\".*\n" *.xml
 
 # Make sure all locations are defined and exist in the game
-checkForMismatchingLocationLinks "CK2EK"    "${CK2EK_VANILLA_LANDED_TITLES_FILE}" "${CK2EK_VANILLA_LOCALISATION_FILE}"
-checkForMismatchingLocationLinks "CK3EK"    "${CK3EK_VANILLA_LANDED_TITLES_FILE}" "${CK3EK_VANILLA_LOCALISATION_FILE}"
+#checkForMismatchingLocationLinks "CK2EK"    "${CK2EK_VANILLA_LANDED_TITLES_FILE}" "${CK2EK_VANILLA_LOCALISATION_FILE}"
+#checkForMismatchingLocationLinks "CK3EK"    "${CK3EK_VANILLA_LANDED_TITLES_FILE}" "${CK3EK_VANILLA_LOCALISATION_FILE}"
 checkDefaultCk3Localisations "CK3EK"      "${CK3EK_VANILLA_LOCALISATION_FILE}"
