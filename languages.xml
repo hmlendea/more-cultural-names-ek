@@ -136,6 +136,9 @@
     </FallbackLanguages>
   </Language>
   <Language>
+    <Id>Hleel</Id>
+  </Language>
+  <Language>
     <Id>Imperial</Id>
     <GameIds>
       <GameId game="CK2EK">colovian</GameId>
@@ -258,6 +261,9 @@
   </Language>
   <Language>
     <Id>Undead</Id>
+  </Language>
+  <Language>
+    <Id>Yespest</Id>
   </Language>
   <Language>
     <Id>Yokudan</Id>
