@@ -16,7 +16,15 @@
       <GameId game="CK3EK">c_abah_landing</GameId> <!-- Abah's Landing -->
     </GameIds>
     <Names>
-      <Name language="Redguardish" value="Abah's Landing" />
+      <Name language="Altmeri" value="Abahvandei" />
+      <Name language="Atmoran" value="Abaskörr" />
+      <Name language="Ayleidic" value="Abahloria" />
+      <Name language="Cyrodiilic" value="Abah's Landing" />
+      <Name language="Dunmeri" value="Abraneth" />
+      <Name language="Falmeri" value="Abathrion" />
+      <Name language="Orcish" value="Grub Abah" />
+      <Name language="Redguardish" value="Abahrah" />
+      <Name language="Yokudan" value="Abah’dirah" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -27,6 +35,8 @@
       <GameId game="CK3EK">d_adamantine</GameId> <!-- Adamantine Tower -->
     </GameIds>
     <Names>
+      <Name language="Aldmeri" value="Adan-Mantoriel" />
+      <Name language="Altmeri" value="Adanel Sil" />
       <Name language="Cyrodiilic" value="Adamantine Tower" />
     </Names>
   </LocationEntity>
@@ -1512,10 +1522,14 @@
       <GameId game="CK3EK">k_falkreath</GameId> <!-- Falkreath -->
     </GameIds>
     <Names>
+      <Name language="Altmeri" value="Falacaran" />
+      <Name language="Ayleidic" value="Falcrethil" />
       <Name language="Cyrodiilic" value="Falkreath" />
+      <Name language="Falmeri" value="Falcrethain" />
       <Name language="Nord" value="Falkreath" />
       <Name language="Orcish" value="Falcrenth" />
       <Name language="Reachmannic" value="Falcrenth" />
+      <Name language="Redguardish" value="Falkrah" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1557,9 +1571,15 @@
       <GameId game="CK3EK">k_fharun</GameId> <!-- Farrun -->
     </GameIds>
     <Names>
+      <Name language="Altmeri" value="Farrunanis" />
+      <Name language="Atmoran" value="Farunhull" />
+      <Name language="Ayleidic" value="Farandel" />
       <Name language="Bretonnic" value="Farrun" />
       <Name language="Cyrodiilic" value="Farrun" />
+      <Name language="Dunmeri" value="Varyn" />
+      <Name language="Falmeri" value="Farlithan" />
       <Name language="Orcish" value="Fharun" />
+      <Name language="Redguardish" value="Farrunah" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1569,8 +1589,15 @@
       <GameId game="CK3EK">d_felmarsh</GameId> <!-- Felmarsh -->
     </GameIds>
     <Names>
+      <Name language="Altmeri" value="Felmarnion" />
+      <Name language="Atmoran" value="Felmyrr" />
+      <Name language="Ayleidic" value="Felmarisel" />
       <Name language="Cyrodiilic" value="Felmarsh" />
+      <Name language="Dunmeri" value="Velmorth" />
       <Name language="Elvish" value="Gandranen" />
+      <Name language="Falmeri" value="Felvithar" />
+      <Name language="Orcish" value="Mor’felrash" />
+      <Name language="Redguardish" value="Felmarah" />
     </Names>
   </LocationEntity>
   <LocationEntity>
@@ -1785,6 +1812,15 @@
       <GameId game="CK2EK">c_hackdirt</GameId> <!-- Hackdirt -->
       <GameId game="CK3EK">b_hackdirt</GameId> <!-- Hackdirt -->
     </GameIds>
+    <Names>
+      <Name language="Altmeri" value="Hacdirion" />
+      <Name language="Atmoran" value="Hekkdyrt" />
+      <Name language="Ayleidic" value="Hectirath" />
+      <Name language="Cyrodiilic" value="Hackdirt" />
+      <Name language="Falmeri" value="Halkthir" />
+      <Name language="Orcish" value="Grakhakdir" />
+      <Name language="Redguardish" value="Hakhdir" />
+    </Names>
   </LocationEntity>
   <LocationEntity>
     <Id>haidar</Id>
